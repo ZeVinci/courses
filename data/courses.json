@@ -1,0 +1,5651 @@
+[
+ {
+  "date": "2026-11-01",
+  "nom": "Marathon de Toulouse",
+  "lieu": "Toulouse",
+  "categorie": "marathon",
+  "distance_km": 42.53,
+  "denivele_m": 139,
+  "notes": "",
+  "preparation": {
+   "semaines": 12,
+   "base": "séances",
+   "sorties_semaine": 4,
+   "sorties_min": 3,
+   "sorties_max": 5,
+   "sl_moy": 127,
+   "sl_max": 158,
+   "as_moy": 73,
+   "as_max": 109,
+   "as_seances": 7,
+   "qualite_semaine": 1,
+   "qualite_types": {
+    "fractionné": 9
+   },
+   "dans_prepa_de": null,
+   "estime_gps": 0.0,
+   "hebdo": [
+    {
+     "km": 57,
+     "n": 5,
+     "q": 1
+    },
+    {
+     "km": 39,
+     "n": 3,
+     "q": 1
+    },
+    {
+     "km": 50,
+     "n": 4,
+     "q": 1
+    },
+    {
+     "km": 46,
+     "n": 3,
+     "q": 0
+    },
+    {
+     "km": 46,
+     "n": 4,
+     "q": 1
+    },
+    {
+     "km": 53,
+     "n": 4,
+     "q": 1
+    },
+    {
+     "km": 66,
+     "n": 4,
+     "q": 1
+    },
+    {
+     "km": 34,
+     "n": 3,
+     "q": 0
+    },
+    {
+     "km": 56,
+     "n": 4,
+     "q": 1
+    },
+    {
+     "km": 56,
+     "n": 4,
+     "q": 1
+    },
+    {
+     "km": 41,
+     "n": 3,
+     "q": 1
+    },
+    {
+     "km": 29,
+     "n": 3,
+     "q": 0
+    }
+   ],
+   "resume": {
+    "semaines": 12,
+    "min_sem": 272,
+    "sorties": 44,
+    "quali": 9
+   }
+  },
+  "depart": [
+   43.6112,
+   1.4404
+  ],
+  "split_ratio": 2.9,
+  "mini": "M60,25L52,27L53,34L54,36L57,32L60,31L63,35L65,41L64,48L63,51L61,53L58,59L57,68L53,68L54,77L56,82L46,84L44,92L44,97L44,100L49,104L50,98L46,92L49,85L47,77L47,66L52,55L55,46L54,51L54,57L54,57L57,60L54,64L56,63L68,63L75,61L82,65L85,71L89,77L91,84L95,92L99,90L102,89L104,89L100,89L100,90L95,87L93,84L95,80L97,78L103,85L107,82L114,78L117,72L114,66L112,62L114,62L112,50L109,39L104,32L104,26L100,8L97,7L93,8L89,12L85,16L83,20L78,23L75,27L75,29L77,38L76,47L80,54L80,58L75,55L72,48L72,45L71,39L71,38",
+  "id": "2026-11-01-marathon-de-toulouse",
+  "t": 13680,
+  "chrono": "3h48",
+  "officiel": false,
+  "splits": [
+   315,
+   320,
+   315,
+   315,
+   310,
+   325,
+   320,
+   320,
+   315,
+   320,
+   315,
+   315,
+   315,
+   315,
+   315,
+   335,
+   315,
+   330,
+   320,
+   315,
+   315,
+   315,
+   310,
+   310,
+   315,
+   325,
+   320,
+   320,
+   325,
+   340,
+   315,
+   315,
+   320,
+   320,
+   350,
+   335,
+   370,
+   320,
+   330,
+   345,
+   335,
+   330
+  ],
+  "trace": "data/traces/2026-11-01-marathon-de-toulouse.txt"
+ },
+ {
+  "date": "2026-05-10",
+  "nom": "Marathon de Saumur",
+  "lieu": "Saumur",
+  "categorie": "marathon",
+  "distance_km": 42.55,
+  "denivele_m": 53,
+  "notes": "",
+  "preparation": {
+   "semaines": 12,
+   "base": "séances",
+   "sorties_semaine": 4,
+   "sorties_min": 1,
+   "sorties_max": 5,
+   "sl_moy": 117,
+   "sl_max": 153,
+   "as_moy": 63,
+   "as_max": 110,
+   "as_seances": 7,
+   "qualite_semaine": 1,
+   "qualite_types": {
+    "fractionné": 10
+   },
+   "dans_prepa_de": null,
+   "estime_gps": 0.12,
+   "hebdo": [
+    {
+     "km": 7,
+     "n": 1,
+     "q": 1
+    },
+    {
+     "km": 43,
+     "n": 4,
+     "q": 1
+    },
+    {
+     "km": 69,
+     "n": 5,
+     "q": 1
+    },
+    {
+     "km": 21,
+     "n": 2,
+     "q": 0
+    },
+    {
+     "km": 66,
+     "n": 5,
+     "q": 1
+    },
+    {
+     "km": 26,
+     "n": 3,
+     "q": 1
+    },
+    {
+     "km": 53,
+     "n": 4,
+     "q": 1
+    },
+    {
+     "km": 59,
+     "n": 4,
+     "q": 0
+    },
+    {
+     "km": 49,
+     "n": 4,
+     "q": 2
+    },
+    {
+     "km": 52,
+     "n": 4,
+     "q": 1
+    },
+    {
+     "km": 42,
+     "n": 4,
+     "q": 1
+    },
+    {
+     "km": 31,
+     "n": 3,
+     "q": 0
+    }
+   ],
+   "resume": {
+    "semaines": 12,
+    "min_sem": 244,
+    "sorties": 43,
+    "quali": 10
+   }
+  },
+  "chrono_source": "athle.fr",
+  "depart": [
+   47.2605,
+   -0.0749
+  ],
+  "split_ratio": 9.7,
+  "mini": "M130,95L126,92L121,93L123,96L127,99L128,103L127,104L126,101L124,100L121,103L118,100L114,94L111,88L107,82L102,78L103,75L103,73L94,66L88,62L86,59L82,52L77,48L73,44L70,42L66,41L62,38L55,34L50,30L46,26L42,22L39,21L35,19L29,16L24,14L26,9L30,8L39,12L46,18L51,22L57,26L61,28L65,31L74,36L77,39L80,40L82,42L84,44L88,47L91,49L95,52L101,55L106,60L113,64L119,71L123,76L129,82L132,90L128,86L126,87L129,90L131,91L134,92L136,96L133,94L131,93L131,91L128,95L129,97L131,97L133,98L131,96L131,96",
+  "id": "2026-05-10-marathon-de-saumur",
+  "t": 13920,
+  "chrono": "3h52",
+  "officiel": true,
+  "splits": [
+   315,
+   310,
+   310,
+   310,
+   310,
+   310,
+   310,
+   315,
+   310,
+   320,
+   320,
+   320,
+   310,
+   315,
+   315,
+   315,
+   315,
+   310,
+   310,
+   315,
+   315,
+   310,
+   315,
+   320,
+   320,
+   320,
+   325,
+   325,
+   320,
+   325,
+   330,
+   330,
+   345,
+   340,
+   340,
+   370,
+   355,
+   355,
+   375,
+   435,
+   395,
+   365
+  ],
+  "trace": "data/traces/2026-05-10-marathon-de-saumur.txt"
+ },
+ {
+  "date": "2025-05-10",
+  "nom": "Ekiden de Port-Leucate (relais)",
+  "lieu": "Leucate",
+  "categorie": "courte",
+  "distance_km": 9.24,
+  "denivele_m": 3,
+  "notes": "",
+  "preparation": {
+   "semaines": 0,
+   "base": "séances",
+   "sorties_semaine": 1,
+   "sorties_min": 1,
+   "sorties_max": 2,
+   "sl_moy": 63,
+   "sl_max": 63,
+   "as_moy": null,
+   "as_max": null,
+   "as_seances": 0,
+   "qualite_semaine": 0,
+   "qualite_types": {},
+   "dans_prepa_de": null,
+   "estime_gps": 0,
+   "hebdo": [
+    {
+     "km": 35,
+     "n": 3,
+     "q": 0
+    },
+    {
+     "km": 40,
+     "n": 3,
+     "q": 0
+    },
+    {
+     "km": 45,
+     "n": 3,
+     "q": 0
+    },
+    {
+     "km": 31,
+     "n": 3,
+     "q": 0
+    },
+    {
+     "km": 40,
+     "n": 3,
+     "q": 0
+    },
+    {
+     "km": 21,
+     "n": 2,
+     "q": 0
+    },
+    {
+     "km": 37,
+     "n": 3,
+     "q": 0
+    },
+    {
+     "km": 32,
+     "n": 3,
+     "q": 0
+    },
+    {
+     "km": 10,
+     "n": 1,
+     "q": 0
+    },
+    {
+     "km": 9,
+     "n": 1,
+     "q": 0
+    },
+    {
+     "km": 21,
+     "n": 2,
+     "q": 0
+    },
+    {
+     "km": 38,
+     "n": 3,
+     "q": 0
+    }
+   ],
+   "resume": {
+    "semaines": 12,
+    "min_sem": 175,
+    "sorties": 30,
+    "quali": 0
+   }
+  },
+  "depart": [
+   42.8552,
+   3.0437
+  ],
+  "mini": "M91,102L94,104L96,101L96,89L97,85L97,71L103,69L105,67L106,56L107,47L102,45L101,38L104,28L92,29L92,21L94,11L90,6L82,21L86,24L88,26L84,33L74,48L66,43L66,38L63,43L58,53L55,51L53,57L59,59L63,65L58,74L60,75L61,84L67,85L70,86L78,93L82,97L88,101L94,104L96,102L96,87L97,77L103,69L105,63L107,47L102,45L101,45L104,29L92,29L91,26L94,11L91,6L89,8L81,21L86,24L88,25L84,33L79,43L77,47L67,43L68,38L58,52L55,51L53,56L58,59L64,62L62,66L59,72L59,75L59,71L60,72",
+  "id": "2025-05-10-ekiden-de-port-leucate-relais",
+  "t": 2580,
+  "chrono": "43 min",
+  "officiel": false,
+  "trace": "data/traces/2025-05-10-ekiden-de-port-leucate-relais.txt"
+ },
+ {
+  "date": "2024-11-24",
+  "nom": "Marathon de La Rochelle",
+  "lieu": "La Rochelle",
+  "categorie": "marathon",
+  "distance_km": 42.75,
+  "denivele_m": 142,
+  "notes": "",
+  "preparation": {
+   "semaines": 10,
+   "base": "sorties longues",
+   "sorties_semaine": 3,
+   "sorties_min": 2,
+   "sorties_max": 4,
+   "sl_moy": 120,
+   "sl_max": 163,
+   "as_moy": null,
+   "as_max": null,
+   "as_seances": 0,
+   "qualite_semaine": 0,
+   "qualite_types": {
+    "côtes": 1
+   },
+   "dans_prepa_de": null,
+   "estime_gps": 0.0,
+   "hebdo": [
+    {
+     "km": 20,
+     "n": 2,
+     "q": 1
+    },
+    {
+     "km": 35,
+     "n": 3,
+     "q": 0
+    },
+    {
+     "km": 51,
+     "n": 4,
+     "q": 1
+    },
+    {
+     "km": 42,
+     "n": 3,
+     "q": 0
+    },
+    {
+     "km": 48,
+     "n": 4,
+     "q": 0
+    },
+    {
+     "km": 55,
+     "n": 4,
+     "q": 0
+    },
+    {
+     "km": 47,
+     "n": 3,
+     "q": 0
+    },
+    {
+     "km": 50,
+     "n": 3,
+     "q": 0
+    },
+    {
+     "km": 23,
+     "n": 2,
+     "q": 0
+    },
+    {
+     "km": 57,
+     "n": 4,
+     "q": 0
+    },
+    {
+     "km": 52,
+     "n": 4,
+     "q": 0
+    },
+    {
+     "km": 30,
+     "n": 3,
+     "q": 0
+    }
+   ],
+   "resume": {
+    "semaines": 10,
+    "min_sem": 261,
+    "sorties": 34,
+    "quali": 1
+   }
+  },
+  "chrono_source": "athle.fr",
+  "depart": [
+   46.1586,
+   -1.1469
+  ],
+  "split_ratio": -1.1,
+  "mini": "M131,39L129,48L124,55L122,69L118,55L104,71L102,87L107,98L116,99L115,90L109,87L114,74L119,75L125,69L127,58L132,56L131,47L132,39L133,23L121,19L113,27L91,24L65,20L70,6L48,14L44,18L49,26L26,29L36,31L30,52L39,40L55,41L56,56L71,53L86,48L101,43L104,28L113,27L126,29L129,37L125,45L124,60L119,72L118,55L107,58L102,85L108,95L115,103L116,90L108,94L114,81L118,72L124,71L126,57L132,56L131,46L134,31L129,21L113,27L65,20L63,10L47,15L46,18L50,26L32,28L28,33L37,32L30,52L39,40L56,33L54,55L76,51L95,47L101,41L106,31L117,28L119,34L122,40L114,49L112,49",
+  "id": "2024-11-24-marathon-de-la-rochelle",
+  "t": 15000,
+  "chrono": "4h10",
+  "officiel": true,
+  "splits": [
+   395,
+   375,
+   365,
+   345,
+   365,
+   335,
+   335,
+   335,
+   380,
+   350,
+   335,
+   335,
+   335,
+   335,
+   390,
+   335,
+   340,
+   340,
+   370,
+   375,
+   350,
+   335,
+   335,
+   340,
+   340,
+   370,
+   340,
+   345,
+   340,
+   345,
+   340,
+   390,
+   345,
+   335,
+   330,
+   380,
+   340,
+   375,
+   360,
+   360,
+   355,
+   355
+  ],
+  "trace": "data/traces/2024-11-24-marathon-de-la-rochelle.txt"
+ },
+ {
+  "date": "2024-11-16",
+  "nom": "Course des Lumières",
+  "lieu": "Paris",
+  "categorie": "courte",
+  "distance_km": 9.49,
+  "denivele_m": 45,
+  "notes": "",
+  "preparation": {
+   "semaines": 0,
+   "base": "séances",
+   "sorties_semaine": 3,
+   "sorties_min": 2,
+   "sorties_max": 4,
+   "sl_moy": 125,
+   "sl_max": 163,
+   "as_moy": null,
+   "as_max": null,
+   "as_seances": 0,
+   "qualite_semaine": 0,
+   "qualite_types": {},
+   "dans_prepa_de": {
+    "id": "2024-11-24-marathon-de-la-rochelle",
+    "nom": "Marathon de La Rochelle",
+    "date": "2024-11-24"
+   },
+   "estime_gps": 0,
+   "hebdo": [
+    {
+     "km": 21,
+     "n": 2,
+     "q": 0
+    },
+    {
+     "km": 32,
+     "n": 3,
+     "q": 2
+    },
+    {
+     "km": 35,
+     "n": 3,
+     "q": 0
+    },
+    {
+     "km": 51,
+     "n": 4,
+     "q": 1
+    },
+    {
+     "km": 42,
+     "n": 3,
+     "q": 0
+    },
+    {
+     "km": 48,
+     "n": 4,
+     "q": 0
+    },
+    {
+     "km": 55,
+     "n": 4,
+     "q": 0
+    },
+    {
+     "km": 47,
+     "n": 3,
+     "q": 0
+    },
+    {
+     "km": 50,
+     "n": 3,
+     "q": 0
+    },
+    {
+     "km": 23,
+     "n": 2,
+     "q": 0
+    },
+    {
+     "km": 57,
+     "n": 4,
+     "q": 0
+    },
+    {
+     "km": 43,
+     "n": 3,
+     "q": 0
+    }
+   ],
+   "resume": {
+    "semaines": 12,
+    "min_sem": 242,
+    "sorties": 38,
+    "quali": 3
+   }
+  },
+  "depart": [
+   48.8631,
+   2.3072
+  ],
+  "mini": "M32,40L36,39L39,40L47,39L47,39L48,40L49,39L58,39L59,39L62,41L70,44L72,45L74,46L76,42L77,42L77,41L77,42L77,42L86,46L114,55L115,56L119,57L122,59L135,64L140,67L141,67L141,67L144,69L147,71L151,74L154,76L152,74L149,73L145,70L143,69L141,68L140,66L137,65L135,64L134,63L130,62L119,57L116,57L112,55L86,46L84,45L83,45L77,42L77,41L76,42L75,42L64,36L63,36L60,34L52,35L50,35L48,36L40,35L40,35L40,35L47,35L47,35L47,37L47,39L47,40L46,40L42,40L41,40L41,40L41,40L44,40L45,40L44,40L36,40L33,40L32,41L24,40L21,41L18,40L14,41L11,42L8,44L6,45L6,45",
+  "id": "2024-11-16-course-des-lumieres",
+  "t": 3120,
+  "chrono": "52 min",
+  "officiel": false,
+  "trace": "data/traces/2024-11-16-course-des-lumieres.txt"
+ },
+ {
+  "date": "2024-09-29",
+  "nom": "Paris-Versailles",
+  "lieu": "Paris → Versailles",
+  "categorie": "courte",
+  "distance_km": 16.1,
+  "denivele_m": 220,
+  "notes": "",
+  "preparation": {
+   "semaines": 8,
+   "base": "séances",
+   "sorties_semaine": 3,
+   "sorties_min": 2,
+   "sorties_max": 4,
+   "sl_moy": 83,
+   "sl_max": 106,
+   "as_moy": null,
+   "as_max": null,
+   "as_seances": 0,
+   "qualite_semaine": 1,
+   "qualite_types": {
+    "côtes": 4
+   },
+   "dans_prepa_de": {
+    "id": "2024-11-24-marathon-de-la-rochelle",
+    "nom": "Marathon de La Rochelle",
+    "date": "2024-11-24"
+   },
+   "estime_gps": 0.0,
+   "hebdo": [
+    {
+     "km": 35,
+     "n": 3,
+     "q": 0
+    },
+    {
+     "km": 31,
+     "n": 3,
+     "q": 1
+    },
+    {
+     "km": 38,
+     "n": 3,
+     "q": 0
+    },
+    {
+     "km": 39,
+     "n": 3,
+     "q": 0
+    },
+    {
+     "km": 37,
+     "n": 3,
+     "q": 0
+    },
+    {
+     "km": 50,
+     "n": 4,
+     "q": 0
+    },
+    {
+     "km": 32,
+     "n": 3,
+     "q": 1
+    },
+    {
+     "km": 32,
+     "n": 3,
+     "q": 1
+    },
+    {
+     "km": 20,
+     "n": 2,
+     "q": 1
+    },
+    {
+     "km": 35,
+     "n": 3,
+     "q": 0
+    },
+    {
+     "km": 51,
+     "n": 4,
+     "q": 1
+    },
+    {
+     "km": 42,
+     "n": 3,
+     "q": 0
+    }
+   ],
+   "resume": {
+    "semaines": 8,
+    "min_sem": 220,
+    "sorties": 25,
+    "quali": 4
+   }
+  },
+  "chrono_source": "athle.fr",
+  "depart": [
+   48.858,
+   2.2921
+  ],
+  "mini": "M154,7L152,9L151,13L148,16L144,19L142,22L141,24L138,28L134,33L133,34L130,38L128,41L128,42L127,44L125,46L124,48L124,50L123,53L122,55L120,57L118,58L117,59L114,60L112,61L106,63L106,64L106,64L104,65L102,65L98,65L97,65L95,66L93,67L94,70L94,71L94,73L94,75L94,77L93,78L89,78L88,80L87,81L85,84L83,87L81,90L80,92L80,93L82,95L81,95L81,95L79,95L78,95L77,97L76,99L75,99L73,103L73,103L72,101L71,101L69,101L69,101L67,101L66,100L62,102L60,103L59,103L57,102L52,101L47,99L46,99L44,99L41,98L34,95L32,95L30,95L27,95L26,95L25,95L24,95L22,95L20,95L17,95L12,96L9,95L6,93L6,93",
+  "id": "2024-09-29-paris-versailles",
+  "t": 4740,
+  "chrono": "1h19",
+  "officiel": true,
+  "trace": "data/traces/2024-09-29-paris-versailles.txt"
+ },
+ {
+  "date": "2024-04-07",
+  "nom": "Marathon de Paris",
+  "lieu": "Paris",
+  "categorie": "marathon",
+  "distance_km": 42.54,
+  "denivele_m": 176,
+  "notes": "",
+  "preparation": {
+   "semaines": 12,
+   "base": "séances",
+   "sorties_semaine": 4,
+   "sorties_min": 3,
+   "sorties_max": 4,
+   "sl_moy": 118,
+   "sl_max": 151,
+   "as_moy": 61,
+   "as_max": 107,
+   "as_seances": 7,
+   "qualite_semaine": 2,
+   "qualite_types": {
+    "fractionné": 17
+   },
+   "dans_prepa_de": null,
+   "estime_gps": 0.08,
+   "hebdo": [
+    {
+     "km": 43,
+     "n": 4,
+     "q": 2
+    },
+    {
+     "km": 44,
+     "n": 4,
+     "q": 2
+    },
+    {
+     "km": 45,
+     "n": 4,
+     "q": 2
+    },
+    {
+     "km": 43,
+     "n": 3,
+     "q": 0
+    },
+    {
+     "km": 46,
+     "n": 4,
+     "q": 2
+    },
+    {
+     "km": 49,
+     "n": 4,
+     "q": 2
+    },
+    {
+     "km": 49,
+     "n": 4,
+     "q": 2
+    },
+    {
+     "km": 48,
+     "n": 3,
+     "q": 0
+    },
+    {
+     "km": 47,
+     "n": 4,
+     "q": 2
+    },
+    {
+     "km": 54,
+     "n": 4,
+     "q": 2
+    },
+    {
+     "km": 51,
+     "n": 4,
+     "q": 1
+    },
+    {
+     "km": 28,
+     "n": 3,
+     "q": 0
+    }
+   ],
+   "resume": {
+    "semaines": 12,
+    "min_sem": 250,
+    "sorties": 45,
+    "quali": 17
+   }
+  },
+  "chrono_source": "athle.fr",
+  "depart": [
+   48.8701,
+   2.3069
+  ],
+  "split_ratio": 15.6,
+  "mini": "M51,30L54,31L61,34L65,35L68,30L67,28L68,27L69,31L69,34L70,38L69,40L74,40L76,40L79,42L81,43L87,45L90,47L94,47L97,49L99,50L104,51L106,54L108,57L110,59L111,61L114,63L120,66L126,70L129,70L131,65L138,60L151,74L154,78L149,82L144,83L139,82L134,78L127,78L122,77L117,72L112,68L108,64L106,61L103,58L97,53L94,50L93,47L89,49L75,42L60,36L55,35L48,35L42,37L39,41L36,45L30,51L27,54L25,58L22,60L18,57L12,55L7,53L6,51L11,42L19,42L24,43L29,42L32,40L37,38L36,32L35,30L30,28L32,28",
+  "id": "2024-04-07-marathon-de-paris",
+  "t": 13440,
+  "chrono": "3h44",
+  "officiel": true,
+  "splits": [
+   290,
+   295,
+   290,
+   300,
+   295,
+   285,
+   295,
+   290,
+   295,
+   290,
+   290,
+   295,
+   295,
+   295,
+   290,
+   305,
+   295,
+   295,
+   295,
+   285,
+   300,
+   305,
+   305,
+   310,
+   315,
+   300,
+   305,
+   305,
+   315,
+   335,
+   355,
+   345,
+   340,
+   340,
+   350,
+   410,
+   375,
+   375,
+   360,
+   370,
+   375,
+   345
+  ],
+  "trace": "data/traces/2024-04-07-marathon-de-paris.txt"
+ },
+ {
+  "date": "2023-11-26",
+  "nom": "Marathon de La Rochelle",
+  "lieu": "La Rochelle",
+  "categorie": "marathon",
+  "distance_km": 42.61,
+  "denivele_m": 138,
+  "notes": "",
+  "preparation": {
+   "semaines": 12,
+   "base": "séances",
+   "sorties_semaine": 4,
+   "sorties_min": 3,
+   "sorties_max": 4,
+   "sl_moy": 112,
+   "sl_max": 150,
+   "as_moy": 67,
+   "as_max": 104,
+   "as_seances": 2,
+   "qualite_semaine": 2,
+   "qualite_types": {
+    "fractionné": 17
+   },
+   "dans_prepa_de": null,
+   "estime_gps": 0.11,
+   "hebdo": [
+    {
+     "km": 46,
+     "n": 4,
+     "q": 2
+    },
+    {
+     "km": 43,
+     "n": 4,
+     "q": 2
+    },
+    {
+     "km": 43,
+     "n": 4,
+     "q": 2
+    },
+    {
+     "km": 38,
+     "n": 3,
+     "q": 0
+    },
+    {
+     "km": 41,
+     "n": 4,
+     "q": 2
+    },
+    {
+     "km": 48,
+     "n": 4,
+     "q": 2
+    },
+    {
+     "km": 52,
+     "n": 4,
+     "q": 2
+    },
+    {
+     "km": 48,
+     "n": 3,
+     "q": 0
+    },
+    {
+     "km": 52,
+     "n": 4,
+     "q": 2
+    },
+    {
+     "km": 29,
+     "n": 3,
+     "q": 2
+    },
+    {
+     "km": 51,
+     "n": 4,
+     "q": 1
+    },
+    {
+     "km": 27,
+     "n": 3,
+     "q": 0
+    }
+   ],
+   "resume": {
+    "semaines": 12,
+    "min_sem": 242,
+    "sorties": 44,
+    "quali": 17
+   }
+  },
+  "chrono_source": "athle.fr",
+  "depart": [
+   46.1585,
+   -1.1469
+  ],
+  "split_ratio": 6.8,
+  "mini": "M131,39L130,48L124,55L122,70L118,66L107,58L105,73L103,89L108,98L117,92L109,94L109,84L114,74L120,76L124,66L126,55L127,50L133,41L132,37L125,20L118,27L100,26L66,19L55,10L40,13L51,19L39,28L26,31L37,32L31,52L39,41L57,33L54,54L74,53L82,49L99,47L105,33L104,26L117,28L130,30L124,39L125,52L122,69L118,66L109,57L104,71L102,88L107,97L115,104L115,91L109,85L114,74L120,76L125,65L126,55L132,46L134,27L120,19L116,27L89,24L68,13L58,10L40,7L41,17L51,20L32,28L27,33L36,36L35,48L48,30L55,41L55,55L75,52L99,46L106,32L105,26L116,32L124,38L114,49L112,49",
+  "id": "2023-11-26-marathon-de-la-rochelle",
+  "t": 13020,
+  "chrono": "3h37",
+  "officiel": true,
+  "splits": [
+   320,
+   295,
+   295,
+   295,
+   300,
+   285,
+   295,
+   300,
+   310,
+   295,
+   295,
+   295,
+   290,
+   285,
+   310,
+   285,
+   295,
+   285,
+   290,
+   305,
+   290,
+   290,
+   285,
+   290,
+   295,
+   300,
+   295,
+   300,
+   305,
+   305,
+   315,
+   320,
+   305,
+   305,
+   305,
+   355,
+   330,
+   335,
+   325,
+   345,
+   405,
+   335
+  ],
+  "trace": "data/traces/2023-11-26-marathon-de-la-rochelle.txt"
+ },
+ {
+  "date": "2023-04-16",
+  "nom": "Marathon d'Annecy",
+  "lieu": "Annecy",
+  "categorie": "marathon",
+  "distance_km": 42.4,
+  "denivele_m": 100,
+  "notes": "",
+  "preparation": {
+   "semaines": 12,
+   "base": "séances",
+   "sorties_semaine": 4,
+   "sorties_min": 3,
+   "sorties_max": 4,
+   "sl_moy": 138,
+   "sl_max": 167,
+   "as_moy": 41,
+   "as_max": 50,
+   "as_seances": 3,
+   "qualite_semaine": 1,
+   "qualite_types": {
+    "fractionné": 8
+   },
+   "dans_prepa_de": null,
+   "estime_gps": 0.73,
+   "hebdo": [
+    {
+     "km": 47,
+     "n": 3,
+     "q": 0
+    },
+    {
+     "km": 49,
+     "n": 4,
+     "q": 1
+    },
+    {
+     "km": 57,
+     "n": 4,
+     "q": 1
+    },
+    {
+     "km": 45,
+     "n": 3,
+     "q": 1
+    },
+    {
+     "km": 40,
+     "n": 3,
+     "q": 0
+    },
+    {
+     "km": 56,
+     "n": 4,
+     "q": 1
+    },
+    {
+     "km": 49,
+     "n": 3,
+     "q": 1
+    },
+    {
+     "km": 58,
+     "n": 4,
+     "q": 1
+    },
+    {
+     "km": 43,
+     "n": 3,
+     "q": 0
+    },
+    {
+     "km": 50,
+     "n": 4,
+     "q": 1
+    },
+    {
+     "km": 54,
+     "n": 4,
+     "q": 1
+    },
+    {
+     "km": 30,
+     "n": 3,
+     "q": 0
+    }
+   ],
+   "resume": {
+    "semaines": 12,
+    "min_sem": 270,
+    "sorties": 42,
+    "quali": 8
+   }
+  },
+  "chrono_source": "athle.fr",
+  "depart": [
+   45.9041,
+   6.1384
+  ],
+  "split_ratio": 1.1,
+  "mini": "M60,6L56,7L58,8L55,9L54,9L56,9L56,10L55,11L58,12L57,13L61,16L63,18L62,23L62,27L62,33L63,37L62,40L62,41L64,44L66,49L69,53L72,55L75,60L78,62L82,64L89,66L93,66L97,67L97,69L96,71L98,79L99,90L98,98L96,100L97,101L100,104L102,102L106,100L103,97L100,93L99,87L98,80L96,71L97,68L96,66L90,67L84,65L79,62L78,61L75,58L76,57L75,55L72,56L69,53L66,47L63,42L62,40L63,38L62,33L63,30L62,25L62,21L62,17L61,16L57,13L57,11L55,10L57,10L56,9L55,10L54,8L58,7L54,9L56,8L56,8",
+  "id": "2023-04-16-marathon-d-annecy",
+  "t": 13620,
+  "chrono": "3h47",
+  "officiel": true,
+  "splits": [
+   340,
+   330,
+   305,
+   320,
+   310,
+   320,
+   310,
+   315,
+   315,
+   320,
+   315,
+   310,
+   315,
+   310,
+   365,
+   315,
+   315,
+   310,
+   315,
+   350,
+   310,
+   310,
+   310,
+   325,
+   330,
+   385,
+   330,
+   345,
+   315,
+   315,
+   330,
+   310,
+   310,
+   315,
+   325,
+   320,
+   320,
+   320,
+   325,
+   320,
+   320,
+   330
+  ],
+  "trace": "data/traces/2023-04-16-marathon-d-annecy.txt"
+ },
+ {
+  "date": "2022-11-20",
+  "nom": "Marathon de Deauville",
+  "lieu": "Deauville",
+  "categorie": "marathon",
+  "distance_km": 42.51,
+  "denivele_m": 124,
+  "notes": "",
+  "preparation": {
+   "semaines": 10,
+   "base": "séances",
+   "sorties_semaine": 4,
+   "sorties_min": 3,
+   "sorties_max": 4,
+   "sl_moy": 133,
+   "sl_max": 155,
+   "as_moy": null,
+   "as_max": null,
+   "as_seances": 0,
+   "qualite_semaine": 1,
+   "qualite_types": {
+    "fractionné": 8
+   },
+   "dans_prepa_de": null,
+   "estime_gps": 0.25,
+   "hebdo": [
+    {
+     "km": 46,
+     "n": 4,
+     "q": 0
+    },
+    {
+     "km": 47,
+     "n": 4,
+     "q": 0
+    },
+    {
+     "km": 51,
+     "n": 4,
+     "q": 1
+    },
+    {
+     "km": 55,
+     "n": 4,
+     "q": 1
+    },
+    {
+     "km": 55,
+     "n": 4,
+     "q": 1
+    },
+    {
+     "km": 58,
+     "n": 4,
+     "q": 1
+    },
+    {
+     "km": 57,
+     "n": 4,
+     "q": 0
+    },
+    {
+     "km": 39,
+     "n": 4,
+     "q": 1
+    },
+    {
+     "km": 26,
+     "n": 3,
+     "q": 1
+    },
+    {
+     "km": 56,
+     "n": 4,
+     "q": 1
+    },
+    {
+     "km": 57,
+     "n": 4,
+     "q": 1
+    },
+    {
+     "km": 27,
+     "n": 3,
+     "q": 0
+    }
+   ],
+   "resume": {
+    "semaines": 10,
+    "min_sem": 271,
+    "sorties": 38,
+    "quali": 8
+   }
+  },
+  "chrono_source": "athle.fr",
+  "depart": [
+   49.3599,
+   0.0658
+  ],
+  "split_ratio": 11.1,
+  "mini": "M71,9L75,10L65,17L76,11L81,16L89,14L97,20L94,27L97,31L106,37L108,43L106,48L105,51L104,57L100,66L97,73L98,83L96,88L94,96L93,104L85,99L78,89L73,81L71,79L77,75L81,72L90,69L98,67L103,60L104,50L97,40L92,34L83,25L77,18L76,22L67,32L66,39L55,41L52,37L51,26L62,16L73,8L73,11L72,12L77,13L86,13L90,15L98,24L93,28L106,37L108,42L106,48L104,51L104,57L101,64L96,68L97,74L98,80L96,89L94,98L90,102L81,94L76,86L72,81L70,81L76,76L81,72L92,69L102,62L104,49L95,39L94,37L88,29L81,25L77,21L70,26L67,37L57,41L53,40L52,30L73,6L73,6",
+  "id": "2022-11-20-marathon-de-deauville",
+  "t": 13800,
+  "chrono": "3h50",
+  "officiel": true,
+  "splits": [
+   310,
+   290,
+   300,
+   300,
+   300,
+   310,
+   305,
+   315,
+   305,
+   305,
+   310,
+   300,
+   295,
+   310,
+   315,
+   305,
+   310,
+   310,
+   320,
+   320,
+   325,
+   305,
+   315,
+   310,
+   315,
+   315,
+   335,
+   320,
+   330,
+   340,
+   320,
+   320,
+   370,
+   335,
+   340,
+   355,
+   350,
+   365,
+   355,
+   435,
+   375,
+   365
+  ],
+  "trace": "data/traces/2022-11-20-marathon-de-deauville.txt"
+ },
+ {
+  "date": "2022-06-05",
+  "nom": "Gendarmes et voleurs de temps",
+  "lieu": "Ambazac",
+  "categorie": "trail",
+  "distance_km": 51.46,
+  "denivele_m": 1565,
+  "notes": "",
+  "preparation": {
+   "semaines": 12,
+   "base": "séances",
+   "sorties_semaine": 4,
+   "sorties_min": 1,
+   "sorties_max": 5,
+   "sl_moy": 154,
+   "sl_max": 192,
+   "as_moy": null,
+   "as_max": null,
+   "as_seances": 0,
+   "qualite_semaine": 1,
+   "qualite_types": {
+    "côtes": 8,
+    "fractionné": 1
+   },
+   "dans_prepa_de": null,
+   "estime_gps": 0.44,
+   "hebdo": [
+    {
+     "km": 57,
+     "n": 4,
+     "q": 1
+    },
+    {
+     "km": 56,
+     "n": 4,
+     "q": 1
+    },
+    {
+     "km": 60,
+     "n": 4,
+     "q": 1
+    },
+    {
+     "km": 60,
+     "n": 4,
+     "q": 1
+    },
+    {
+     "km": 61,
+     "n": 4,
+     "q": 1
+    },
+    {
+     "km": 90,
+     "n": 5,
+     "q": 0
+    },
+    {
+     "km": 20,
+     "n": 2,
+     "q": 1
+    },
+    {
+     "km": 11,
+     "n": 1,
+     "q": 0
+    },
+    {
+     "km": 62,
+     "n": 4,
+     "q": 1
+    },
+    {
+     "km": 57,
+     "n": 4,
+     "q": 1
+    },
+    {
+     "km": 47,
+     "n": 4,
+     "q": 1
+    },
+    {
+     "km": 26,
+     "n": 2,
+     "q": 0
+    }
+   ],
+   "resume": {
+    "semaines": 12,
+    "min_sem": 311,
+    "sorties": 42,
+    "quali": 9
+   }
+  },
+  "chrono_source": "betrail",
+  "depart": [
+   45.9499,
+   1.3908
+  ],
+  "mini": "M86,95L87,95L85,91L85,84L78,77L77,70L73,65L66,59L69,55L70,49L70,45L69,38L68,35L67,33L72,27L78,22L79,18L76,18L77,13L77,6L81,12L83,7L90,11L96,11L101,7L105,10L109,18L112,24L105,25L107,30L110,38L105,36L100,39L95,39L91,34L90,28L89,37L87,41L90,51L87,55L83,55L84,62L78,64L77,71L81,77L86,84L89,89L88,93L83,95L79,96L75,104L68,102L67,97L69,94L61,93L59,92L53,89L48,83L53,76L55,73L54,68L56,63L63,57L67,55L71,50L69,46L75,50L83,55L85,61L78,64L77,67L78,76L85,85L89,86L85,91L85,91",
+  "id": "2022-06-05-gendarmes-et-voleurs-de-temps",
+  "t": 25680,
+  "chrono": "7h08",
+  "officiel": true,
+  "trace": "data/traces/2022-06-05-gendarmes-et-voleurs-de-temps.txt"
+ },
+ {
+  "date": "2021-11-28",
+  "nom": "Marathon de La Rochelle",
+  "lieu": "La Rochelle",
+  "categorie": "marathon",
+  "distance_km": 42.8,
+  "denivele_m": 143,
+  "notes": "",
+  "preparation": {
+   "semaines": 10,
+   "base": "séances",
+   "sorties_semaine": 4,
+   "sorties_min": 3,
+   "sorties_max": 5,
+   "sl_moy": 126,
+   "sl_max": 154,
+   "as_moy": 57,
+   "as_max": 107,
+   "as_seances": 6,
+   "qualite_semaine": 1,
+   "qualite_types": {
+    "fractionné": 7
+   },
+   "dans_prepa_de": null,
+   "estime_gps": 0.08,
+   "hebdo": [
+    {
+     "km": 51,
+     "n": 4,
+     "q": 0
+    },
+    {
+     "km": 56,
+     "n": 4,
+     "q": 0
+    },
+    {
+     "km": 58,
+     "n": 4,
+     "q": 1
+    },
+    {
+     "km": 55,
+     "n": 4,
+     "q": 0
+    },
+    {
+     "km": 48,
+     "n": 4,
+     "q": 1
+    },
+    {
+     "km": 51,
+     "n": 4,
+     "q": 1
+    },
+    {
+     "km": 55,
+     "n": 4,
+     "q": 1
+    },
+    {
+     "km": 47,
+     "n": 3,
+     "q": 0
+    },
+    {
+     "km": 80,
+     "n": 5,
+     "q": 1
+    },
+    {
+     "km": 32,
+     "n": 3,
+     "q": 1
+    },
+    {
+     "km": 53,
+     "n": 4,
+     "q": 1
+    },
+    {
+     "km": 23,
+     "n": 2,
+     "q": 0
+    }
+   ],
+   "resume": {
+    "semaines": 10,
+    "min_sem": 281,
+    "sorties": 37,
+    "quali": 7
+   }
+  },
+  "chrono_source": "athle.fr",
+  "depart": [
+   46.1586,
+   -1.1468
+  ],
+  "split_ratio": 6.2,
+  "mini": "M129,39L128,48L122,68L116,66L106,57L101,79L104,93L112,104L115,91L107,84L116,72L122,72L125,57L125,49L131,42L132,29L133,26L125,21L115,27L87,24L63,20L58,11L44,8L45,15L49,20L34,28L23,31L35,32L28,52L39,38L54,36L54,56L73,50L97,47L101,35L102,26L120,28L127,38L123,45L122,68L116,72L107,56L100,84L105,97L114,97L105,94L111,82L116,72L122,68L124,55L130,46L131,34L122,20L109,27L63,20L59,10L37,12L48,19L39,21L25,28L28,32L30,45L31,51L50,28L51,50L73,52L92,48L99,40L102,26L115,28L115,42L110,49",
+  "id": "2021-11-28-marathon-de-la-rochelle",
+  "t": 13680,
+  "chrono": "3h48",
+  "officiel": true,
+  "splits": [
+   345,
+   320,
+   305,
+   305,
+   320,
+   290,
+   300,
+   310,
+   300,
+   325,
+   315,
+   295,
+   325,
+   290,
+   330,
+   300,
+   310,
+   300,
+   315,
+   305,
+   345,
+   300,
+   310,
+   315,
+   310,
+   335,
+   305,
+   310,
+   310,
+   330,
+   315,
+   360,
+   335,
+   330,
+   325,
+   405,
+   335,
+   340,
+   325,
+   345,
+   335,
+   345
+  ],
+  "trace": "data/traces/2021-11-28-marathon-de-la-rochelle.txt"
+ },
+ {
+  "date": "2021-07-03",
+  "nom": "Ecotrail 45",
+  "lieu": "Versailles",
+  "categorie": "trail",
+  "distance_km": 45.63,
+  "denivele_m": 769,
+  "notes": "",
+  "preparation": {
+   "semaines": 12,
+   "base": "sorties longues",
+   "sorties_semaine": 4,
+   "sorties_min": 3,
+   "sorties_max": 4,
+   "sl_moy": 159,
+   "sl_max": 192,
+   "as_moy": null,
+   "as_max": null,
+   "as_seances": 0,
+   "qualite_semaine": 0,
+   "qualite_types": {
+    "côtes": 4
+   },
+   "dans_prepa_de": null,
+   "estime_gps": 0.5,
+   "hebdo": [
+    {
+     "km": 57,
+     "n": 4,
+     "q": 0
+    },
+    {
+     "km": 61,
+     "n": 4,
+     "q": 0
+    },
+    {
+     "km": 57,
+     "n": 4,
+     "q": 1
+    },
+    {
+     "km": 58,
+     "n": 4,
+     "q": 0
+    },
+    {
+     "km": 56,
+     "n": 4,
+     "q": 0
+    },
+    {
+     "km": 40,
+     "n": 3,
+     "q": 0
+    },
+    {
+     "km": 58,
+     "n": 4,
+     "q": 1
+    },
+    {
+     "km": 63,
+     "n": 4,
+     "q": 1
+    },
+    {
+     "km": 63,
+     "n": 4,
+     "q": 1
+    },
+    {
+     "km": 61,
+     "n": 4,
+     "q": 0
+    },
+    {
+     "km": 57,
+     "n": 4,
+     "q": 0
+    },
+    {
+     "km": 38,
+     "n": 3,
+     "q": 0
+    }
+   ],
+   "resume": {
+    "semaines": 12,
+    "min_sem": 329,
+    "sorties": 46,
+    "quali": 4
+   }
+  },
+  "chrono_source": "athle.fr",
+  "depart": [
+   48.8071,
+   2.1059
+  ],
+  "mini": "M20,63L13,67L14,61L7,58L10,56L15,59L19,56L21,63L19,69L24,76L26,79L31,80L34,83L35,87L34,91L37,89L39,89L40,94L41,98L41,99L47,103L50,103L53,103L56,100L61,96L61,90L60,86L61,83L64,81L70,81L73,84L77,78L82,80L84,84L89,85L91,79L88,75L90,72L89,69L86,70L82,67L84,64L87,61L86,56L85,55L82,52L77,51L70,53L72,46L71,41L71,37L75,36L79,35L81,34L88,31L93,33L100,33L100,39L100,34L103,39L105,40L106,41L116,49L123,48L124,45L128,40L131,39L135,32L140,25L143,19L146,17L150,11L152,9L154,6",
+  "id": "2021-07-03-ecotrail-45",
+  "t": 19380,
+  "chrono": "5h23",
+  "officiel": true,
+  "trace": "data/traces/2021-07-03-ecotrail-45.txt"
+ },
+ {
+  "date": "2019-10-06",
+  "nom": "Trail de Mauves en vert",
+  "lieu": "Mauves-sur-Loire",
+  "categorie": "trail",
+  "distance_km": 61.82,
+  "denivele_m": 3316,
+  "notes": "",
+  "preparation": {
+   "semaines": 8,
+   "base": "séances",
+   "sorties_semaine": 4,
+   "sorties_min": 3,
+   "sorties_max": 5,
+   "sl_moy": 154,
+   "sl_max": 231,
+   "as_moy": null,
+   "as_max": null,
+   "as_seances": 0,
+   "qualite_semaine": 1,
+   "qualite_types": {
+    "côtes": 5
+   },
+   "dans_prepa_de": null,
+   "estime_gps": 0.2,
+   "hebdo": [
+    {
+     "km": 46,
+     "n": 3,
+     "q": 0
+    },
+    {
+     "km": 10,
+     "n": 1,
+     "q": 0
+    },
+    {
+     "km": 50,
+     "n": 4,
+     "q": 1
+    },
+    {
+     "km": 49,
+     "n": 6,
+     "q": 1
+    },
+    {
+     "km": 45,
+     "n": 5,
+     "q": 0
+    },
+    {
+     "km": 40,
+     "n": 3,
+     "q": 0
+    },
+    {
+     "km": 49,
+     "n": 4,
+     "q": 1
+    },
+    {
+     "km": 61,
+     "n": 4,
+     "q": 1
+    },
+    {
+     "km": 66,
+     "n": 4,
+     "q": 1
+    },
+    {
+     "km": 72,
+     "n": 4,
+     "q": 1
+    },
+    {
+     "km": 54,
+     "n": 4,
+     "q": 1
+    },
+    {
+     "km": 30,
+     "n": 3,
+     "q": 0
+    }
+   ],
+   "resume": {
+    "semaines": 8,
+    "min_sem": 333,
+    "sorties": 31,
+    "quali": 5
+   }
+  },
+  "chrono_source": "athle.fr",
+  "depart": [
+   47.2936,
+   -1.3897
+  ],
+  "mini": "M42,100L40,101L43,95L45,99L57,91L56,87L55,83L52,74L66,73L69,68L70,68L72,70L78,68L79,74L86,67L91,62L92,58L93,57L101,52L103,49L107,47L110,41L116,34L122,36L130,32L133,23L127,16L132,14L133,10L131,7L131,9L126,14L126,18L126,23L125,29L128,35L129,36L119,38L112,41L103,42L98,38L92,32L89,36L89,43L96,45L96,48L93,55L91,55L90,52L89,59L88,61L86,64L84,66L83,64L73,70L66,68L67,61L64,55L59,51L54,48L46,50L38,59L31,61L36,67L35,69L35,75L30,79L33,73L28,74L30,87L29,95L28,102L31,103L36,98L40,99L43,99",
+  "id": "2019-10-06-trail-de-mauves-en-vert",
+  "t": 30240,
+  "chrono": "8h24",
+  "officiel": true,
+  "trace": "data/traces/2019-10-06-trail-de-mauves-en-vert.txt"
+ },
+ {
+  "date": "2019-05-30",
+  "nom": "100 km de Steenwerck",
+  "lieu": "Steenwerck",
+  "categorie": "trail",
+  "distance_km": 101.36,
+  "denivele_m": 1593,
+  "notes": "",
+  "preparation": {
+   "semaines": 12,
+   "base": "sorties longues",
+   "sorties_semaine": 4,
+   "sorties_min": 2,
+   "sorties_max": 5,
+   "sl_moy": 150,
+   "sl_max": 233,
+   "as_moy": null,
+   "as_max": null,
+   "as_seances": 0,
+   "qualite_semaine": 0,
+   "qualite_types": {
+    "fractionné": 3
+   },
+   "dans_prepa_de": null,
+   "estime_gps": 1.0,
+   "hebdo": [
+    {
+     "km": 33,
+     "n": 2,
+     "q": 0
+    },
+    {
+     "km": 75,
+     "n": 5,
+     "q": 1
+    },
+    {
+     "km": 68,
+     "n": 5,
+     "q": 1
+    },
+    {
+     "km": 79,
+     "n": 5,
+     "q": 0
+    },
+    {
+     "km": 45,
+     "n": 3,
+     "q": 1
+    },
+    {
+     "km": 51,
+     "n": 2,
+     "q": 0
+    },
+    {
+     "km": 62,
+     "n": 4,
+     "q": 0
+    },
+    {
+     "km": 40,
+     "n": 3,
+     "q": 0
+    },
+    {
+     "km": 69,
+     "n": 4,
+     "q": 0
+    },
+    {
+     "km": 43,
+     "n": 3,
+     "q": 0
+    },
+    {
+     "km": 62,
+     "n": 5,
+     "q": 0
+    },
+    {
+     "km": 30,
+     "n": 3,
+     "q": 0
+    }
+   ],
+   "resume": {
+    "semaines": 12,
+    "min_sem": 312,
+    "sorties": 44,
+    "quali": 3
+   }
+  },
+  "chrono_source": "athle.fr",
+  "depart": [
+   50.7002,
+   2.7747
+  ],
+  "mini": "M93,36L84,37L94,31L101,39L92,62L79,46L49,27L35,22L60,15L80,13L104,13L125,33L129,45L127,69L114,41L100,34L102,45L106,62L120,92L91,76L76,93L55,81L35,76L31,67L51,54L66,47L100,34L93,35L49,32L35,23L55,9L75,11L98,18L119,27L123,41L132,71L114,41L99,34L100,48L111,66L117,94L92,76L76,92L59,84L36,77L39,63L58,52L71,42L100,34L92,35L49,33L35,23L60,15L80,13L101,17L122,31L129,45L128,67L107,36L97,36L99,57L111,76L116,94L85,80L76,94L59,84L43,79L23,73L51,54L65,53L97,34L100,34",
+  "id": "2019-05-30-100-km-de-steenwerck",
+  "t": 40560,
+  "chrono": "11h16",
+  "officiel": true,
+  "trace": "data/traces/2019-05-30-100-km-de-steenwerck.txt"
+ },
+ {
+  "date": "2019-04-14",
+  "nom": "Marathon de Paris",
+  "lieu": "Paris",
+  "categorie": "marathon",
+  "distance_km": 42.53,
+  "denivele_m": 273,
+  "notes": "",
+  "preparation": {
+   "semaines": 12,
+   "base": "séances",
+   "sorties_semaine": 4,
+   "sorties_min": 3,
+   "sorties_max": 6,
+   "sl_moy": 160,
+   "sl_max": 196,
+   "as_moy": 36,
+   "as_max": 61,
+   "as_seances": 7,
+   "qualite_semaine": 1,
+   "qualite_types": {
+    "fractionné": 8
+   },
+   "dans_prepa_de": null,
+   "estime_gps": 1.0,
+   "hebdo": [
+    {
+     "km": 54,
+     "n": 4,
+     "q": 1
+    },
+    {
+     "km": 51,
+     "n": 4,
+     "q": 1
+    },
+    {
+     "km": 57,
+     "n": 4,
+     "q": 1
+    },
+    {
+     "km": 60,
+     "n": 4,
+     "q": 0
+    },
+    {
+     "km": 65,
+     "n": 4,
+     "q": 1
+    },
+    {
+     "km": 64,
+     "n": 4,
+     "q": 1
+    },
+    {
+     "km": 58,
+     "n": 3,
+     "q": 0
+    },
+    {
+     "km": 54,
+     "n": 4,
+     "q": 1
+    },
+    {
+     "km": 64,
+     "n": 4,
+     "q": 1
+    },
+    {
+     "km": 81,
+     "n": 6,
+     "q": 0
+    },
+    {
+     "km": 65,
+     "n": 4,
+     "q": 1
+    },
+    {
+     "km": 44,
+     "n": 3,
+     "q": 0
+    }
+   ],
+   "resume": {
+    "semaines": 12,
+    "min_sem": 340,
+    "sorties": 48,
+    "quali": 8
+   }
+  },
+  "chrono_source": "athle.fr",
+  "depart": [
+   48.8699,
+   2.3071
+  ],
+  "split_ratio": -1.1,
+  "mini": "M50,32L59,36L60,35L64,36L67,32L67,30L67,28L68,29L68,33L69,36L70,39L74,41L76,42L78,43L82,45L87,47L89,48L93,50L95,53L96,54L98,52L101,52L105,53L106,56L108,59L109,60L111,62L113,65L117,66L120,69L124,70L130,69L134,66L141,64L143,65L149,71L152,78L149,78L147,86L141,86L137,82L133,81L128,80L124,80L119,76L114,73L110,67L108,65L106,62L100,57L97,55L95,55L93,57L90,54L89,52L87,50L82,48L79,46L63,40L51,37L45,38L39,41L35,46L30,51L26,56L24,59L21,63L16,60L15,58L16,55L18,50L20,45L14,44L7,44L8,40L10,34L20,29L18,25L21,24L24,23L24,26L20,30L24,31L27,30L30,29",
+  "id": "2019-04-14-marathon-de-paris",
+  "t": 14040,
+  "chrono": "3h54",
+  "officiel": true,
+  "splits": [
+   310,
+   320,
+   330,
+   325,
+   335,
+   320,
+   330,
+   345,
+   330,
+   335,
+   330,
+   335,
+   330,
+   375,
+   335,
+   325,
+   330,
+   390,
+   310,
+   320,
+   325,
+   325,
+   330,
+   340,
+   335,
+   335,
+   345,
+   355,
+   340,
+   335,
+   340,
+   325,
+   330,
+   330,
+   340,
+   330,
+   315,
+   310,
+   320,
+   325,
+   320,
+   320
+  ],
+  "trace": "data/traces/2019-04-14-marathon-de-paris.txt"
+ },
+ {
+  "date": "2018-11-10",
+  "nom": "Ecotrail de Madrid 52",
+  "lieu": "Tres Cantos (Espagne)",
+  "categorie": "trail",
+  "distance_km": 51.9,
+  "denivele_m": 728,
+  "notes": "",
+  "preparation": {
+   "semaines": 12,
+   "base": "sorties longues",
+   "sorties_semaine": 3,
+   "sorties_min": 3,
+   "sorties_max": 4,
+   "sl_moy": 133,
+   "sl_max": 182,
+   "as_moy": null,
+   "as_max": null,
+   "as_seances": 0,
+   "qualite_semaine": 1,
+   "qualite_types": {
+    "fractionné": 8
+   },
+   "dans_prepa_de": null,
+   "estime_gps": 1.0,
+   "hebdo": [
+    {
+     "km": 35,
+     "n": 3,
+     "q": 0
+    },
+    {
+     "km": 39,
+     "n": 3,
+     "q": 1
+    },
+    {
+     "km": 49,
+     "n": 4,
+     "q": 1
+    },
+    {
+     "km": 52,
+     "n": 4,
+     "q": 1
+    },
+    {
+     "km": 60,
+     "n": 4,
+     "q": 1
+    },
+    {
+     "km": 31,
+     "n": 3,
+     "q": 1
+    },
+    {
+     "km": 49,
+     "n": 3,
+     "q": 0
+    },
+    {
+     "km": 46,
+     "n": 3,
+     "q": 0
+    },
+    {
+     "km": 58,
+     "n": 4,
+     "q": 1
+    },
+    {
+     "km": 48,
+     "n": 3,
+     "q": 1
+    },
+    {
+     "km": 36,
+     "n": 3,
+     "q": 1
+    },
+    {
+     "km": 30,
+     "n": 3,
+     "q": 0
+    }
+   ],
+   "resume": {
+    "semaines": 12,
+    "min_sem": 264,
+    "sorties": 40,
+    "quali": 8
+   }
+  },
+  "chrono_source": "athle.fr",
+  "depart": [
+   40.5955,
+   -3.7076
+  ],
+  "mini": "M77,6L79,10L84,9L83,12L79,20L85,19L91,17L95,14L103,9L109,11L112,18L115,22L119,23L124,24L126,26L120,26L117,26L113,28L112,31L112,35L105,37L102,38L96,40L91,40L93,42L93,45L94,50L98,55L102,58L96,60L93,63L89,64L89,65L86,67L79,64L74,63L72,67L70,68L66,69L62,68L59,72L55,74L50,71L45,68L40,67L36,61L34,63L36,70L37,72L42,77L45,78L45,76L45,74L43,73L47,73L50,75L53,76L56,76L58,73L67,74L72,74L72,78L75,80L74,82L74,83L78,84L81,86L83,86L85,88L84,91L84,94L88,98L89,101L90,104L90,104",
+  "id": "2018-11-10-ecotrail-de-madrid-52",
+  "t": 19980,
+  "chrono": "5h33",
+  "officiel": true,
+  "trace": "data/traces/2018-11-10-ecotrail-de-madrid-52.txt"
+ },
+ {
+  "date": "2018-06-17",
+  "nom": "Demie Barjo",
+  "lieu": "La Hague",
+  "categorie": "trail",
+  "distance_km": 50.22,
+  "denivele_m": 1447,
+  "notes": "",
+  "preparation": {
+   "semaines": 10,
+   "base": "séances",
+   "sorties_semaine": 4,
+   "sorties_min": 2,
+   "sorties_max": 5,
+   "sl_moy": 131,
+   "sl_max": 184,
+   "as_moy": null,
+   "as_max": null,
+   "as_seances": 0,
+   "qualite_semaine": 1,
+   "qualite_types": {
+    "côtes": 4,
+    "fractionné": 4,
+    "seuil": 1
+   },
+   "dans_prepa_de": null,
+   "estime_gps": 1.0,
+   "hebdo": [
+    {
+     "km": 32,
+     "n": 3,
+     "q": 0
+    },
+    {
+     "km": 49,
+     "n": 4,
+     "q": 0
+    },
+    {
+     "km": 46,
+     "n": 4,
+     "q": 1
+    },
+    {
+     "km": 66,
+     "n": 4,
+     "q": 1
+    },
+    {
+     "km": 28,
+     "n": 3,
+     "q": 1
+    },
+    {
+     "km": 26,
+     "n": 2,
+     "q": 1
+    },
+    {
+     "km": 81,
+     "n": 5,
+     "q": 1
+    },
+    {
+     "km": 32,
+     "n": 3,
+     "q": 1
+    },
+    {
+     "km": 47,
+     "n": 3,
+     "q": 1
+    },
+    {
+     "km": 59,
+     "n": 4,
+     "q": 1
+    },
+    {
+     "km": 50,
+     "n": 4,
+     "q": 1
+    },
+    {
+     "km": 29,
+     "n": 3,
+     "q": 0
+    }
+   ],
+   "resume": {
+    "semaines": 10,
+    "min_sem": 278,
+    "sorties": 35,
+    "quali": 9
+   }
+  },
+  "chrono_source": "athle.fr",
+  "depart": [
+   49.6791,
+   -1.7223
+  ],
+  "mini": "M154,66L145,67L134,66L125,65L119,64L115,62L111,60L108,58L105,57L99,57L94,55L94,58L94,60L92,62L91,60L87,58L86,53L83,47L81,42L79,40L77,38L78,41L77,47L73,46L71,42L68,45L67,40L70,40L71,37L69,31L67,28L64,29L60,31L53,37L43,37L40,34L37,35L35,34L32,30L35,25L31,23L26,19L20,17L16,18L12,19L7,28L9,31L6,38L7,42L9,46L11,47L13,52L14,56L12,61L9,65L11,67L13,71L17,72L18,75L21,76L24,77L28,78L32,77L35,77L39,79L42,80L44,84L48,86L52,85L55,87L59,90L63,93L68,91L70,88L72,85L75,83L78,82",
+  "id": "2018-06-17-demie-barjo",
+  "t": 24900,
+  "chrono": "6h55",
+  "officiel": true,
+  "trace": "data/traces/2018-06-17-demie-barjo.txt"
+ },
+ {
+  "date": "2018-03-03",
+  "nom": "Ecotrail de Florence – 42 km collines",
+  "lieu": "Florence (Italie)",
+  "categorie": "trail",
+  "distance_km": 44.08,
+  "denivele_m": 1290,
+  "notes": "",
+  "preparation": {
+   "semaines": 12,
+   "base": "séances",
+   "sorties_semaine": 4,
+   "sorties_min": 3,
+   "sorties_max": 4,
+   "sl_moy": 153,
+   "sl_max": 324,
+   "as_moy": null,
+   "as_max": null,
+   "as_seances": 0,
+   "qualite_semaine": 1,
+   "qualite_types": {
+    "côtes": 10,
+    "fractionné": 2
+   },
+   "dans_prepa_de": null,
+   "estime_gps": 0.58,
+   "hebdo": [
+    {
+     "km": 51,
+     "n": 4,
+     "q": 2
+    },
+    {
+     "km": 45,
+     "n": 3,
+     "q": 1
+    },
+    {
+     "km": 49,
+     "n": 4,
+     "q": 1
+    },
+    {
+     "km": 42,
+     "n": 3,
+     "q": 1
+    },
+    {
+     "km": 44,
+     "n": 4,
+     "q": 1
+    },
+    {
+     "km": 62,
+     "n": 4,
+     "q": 1
+    },
+    {
+     "km": 63,
+     "n": 4,
+     "q": 1
+    },
+    {
+     "km": 53,
+     "n": 3,
+     "q": 1
+    },
+    {
+     "km": 65,
+     "n": 3,
+     "q": 1
+    },
+    {
+     "km": 50,
+     "n": 4,
+     "q": 1
+    },
+    {
+     "km": 50,
+     "n": 4,
+     "q": 1
+    },
+    {
+     "km": 40,
+     "n": 4,
+     "q": 1
+    }
+   ],
+   "resume": {
+    "semaines": 12,
+    "min_sem": 307,
+    "sorties": 44,
+    "quali": 13
+   }
+  },
+  "depart": [
+   43.763,
+   11.2654
+  ],
+  "mini": "M38,94L37,99L41,102L46,98L46,90L53,91L60,92L75,92L81,92L97,93L103,86L112,83L118,86L121,83L121,81L124,72L120,69L115,67L111,61L107,57L109,51L103,50L102,47L104,41L104,35L106,28L106,23L110,12L114,8L110,8L107,12L106,19L105,23L96,24L93,23L89,21L93,16L90,15L85,19L79,24L74,24L69,23L67,24L69,27L71,29L76,30L81,29L84,32L80,36L81,40L85,39L82,46L83,48L85,48L86,48L87,49L93,49L94,55L98,60L99,63L105,64L108,70L102,80L104,84L98,92L87,93L74,90L51,91L45,90L46,97L44,98L38,94L39,94",
+  "id": "2018-03-03-ecotrail-de-florence-42-km-collines",
+  "t": 20100,
+  "chrono": "5h35",
+  "officiel": false,
+  "trace": "data/traces/2018-03-03-ecotrail-de-florence-42-km-collines.txt"
+ },
+ {
+  "date": "2018-03-02",
+  "nom": "Ecotrail de Florence – urbain nocturne",
+  "lieu": "Florence (Italie)",
+  "categorie": "trail",
+  "distance_km": 13.79,
+  "denivele_m": 439,
+  "notes": "",
+  "preparation": {
+   "semaines": 12,
+   "base": "séances",
+   "sorties_semaine": 4,
+   "sorties_min": 3,
+   "sorties_max": 4,
+   "sl_moy": 149,
+   "sl_max": 324,
+   "as_moy": null,
+   "as_max": null,
+   "as_seances": 0,
+   "qualite_semaine": 1,
+   "qualite_types": {
+    "côtes": 10,
+    "fractionné": 2
+   },
+   "dans_prepa_de": {
+    "id": "2018-03-03-ecotrail-de-florence-42-km-collines",
+    "nom": "Ecotrail de Florence – 42 km collines",
+    "date": "2018-03-03"
+   },
+   "estime_gps": 0.58,
+   "hebdo": [
+    {
+     "km": 41,
+     "n": 3,
+     "q": 2
+    },
+    {
+     "km": 55,
+     "n": 4,
+     "q": 1
+    },
+    {
+     "km": 31,
+     "n": 3,
+     "q": 1
+    },
+    {
+     "km": 60,
+     "n": 4,
+     "q": 1
+    },
+    {
+     "km": 33,
+     "n": 3,
+     "q": 1
+    },
+    {
+     "km": 58,
+     "n": 4,
+     "q": 1
+    },
+    {
+     "km": 63,
+     "n": 4,
+     "q": 1
+    },
+    {
+     "km": 54,
+     "n": 3,
+     "q": 1
+    },
+    {
+     "km": 78,
+     "n": 4,
+     "q": 1
+    },
+    {
+     "km": 40,
+     "n": 3,
+     "q": 1
+    },
+    {
+     "km": 50,
+     "n": 4,
+     "q": 1
+    },
+    {
+     "km": 36,
+     "n": 4,
+     "q": 0
+    }
+   ],
+   "resume": {
+    "semaines": 12,
+    "min_sem": 300,
+    "sorties": 43,
+    "quali": 12
+   }
+  },
+  "depart": [
+   43.7629,
+   11.2652
+  ],
+  "mini": "M109,61L105,62L104,60L105,58L113,58L105,57L101,59L106,55L112,54L119,54L131,62L124,61L123,64L121,69L120,72L117,74L112,77L110,87L104,83L105,77L109,71L99,60L95,57L87,60L81,62L72,61L75,54L71,46L72,48L75,47L81,52L84,49L82,39L74,37L75,32L74,26L73,19L73,13L76,10L82,10L79,6L72,8L70,20L65,37L59,37L59,40L54,48L56,52L56,53L46,58L33,66L36,68L38,69L40,67L48,64L56,61L61,65L65,60L67,55L70,58L70,67L73,76L64,86L61,99L68,102L75,102L77,93L78,90L76,85L77,82L79,77L90,67L95,61L95,65L95,70L93,77L95,84L99,82L101,76L106,72L105,64L107,60L111,61",
+  "id": "2018-03-02-ecotrail-de-florence-urbain-nocturne",
+  "t": 5040,
+  "chrono": "1h24",
+  "officiel": false,
+  "trace": "data/traces/2018-03-02-ecotrail-de-florence-urbain-nocturne.txt"
+ },
+ {
+  "date": "2017-11-12",
+  "nom": "Sparnatrail",
+  "lieu": "Épernay",
+  "categorie": "trail",
+  "distance_km": 57.71,
+  "denivele_m": 1347,
+  "notes": "",
+  "preparation": {
+   "semaines": 12,
+   "base": "séances",
+   "sorties_semaine": 4,
+   "sorties_min": 2,
+   "sorties_max": 5,
+   "sl_moy": 128,
+   "sl_max": 191,
+   "as_moy": null,
+   "as_max": null,
+   "as_seances": 0,
+   "qualite_semaine": 1,
+   "qualite_types": {
+    "côtes": 6,
+    "fractionné": 5
+   },
+   "dans_prepa_de": null,
+   "estime_gps": 1.0,
+   "hebdo": [
+    {
+     "km": 28,
+     "n": 3,
+     "q": 2
+    },
+    {
+     "km": 39,
+     "n": 3,
+     "q": 1
+    },
+    {
+     "km": 50,
+     "n": 4,
+     "q": 1
+    },
+    {
+     "km": 52,
+     "n": 5,
+     "q": 0
+    },
+    {
+     "km": 27,
+     "n": 3,
+     "q": 1
+    },
+    {
+     "km": 87,
+     "n": 5,
+     "q": 1
+    },
+    {
+     "km": 31,
+     "n": 3,
+     "q": 1
+    },
+    {
+     "km": 92,
+     "n": 5,
+     "q": 1
+    },
+    {
+     "km": 31,
+     "n": 3,
+     "q": 1
+    },
+    {
+     "km": 19,
+     "n": 2,
+     "q": 1
+    },
+    {
+     "km": 51,
+     "n": 4,
+     "q": 1
+    },
+    {
+     "km": 30,
+     "n": 3,
+     "q": 0
+    }
+   ],
+   "resume": {
+    "semaines": 12,
+    "min_sem": 266,
+    "sorties": 43,
+    "quali": 11
+   }
+  },
+  "chrono_source": "athle.fr",
+  "depart": [
+   49.0434,
+   3.9586
+  ],
+  "mini": "M104,39L109,40L107,35L105,27L98,24L95,17L96,17L97,15L98,9L94,11L90,9L86,9L83,7L83,10L80,13L74,13L72,12L69,10L64,8L64,15L60,18L57,24L53,25L52,31L53,32L55,35L64,37L68,36L72,33L75,37L74,39L81,43L85,39L88,40L90,42L91,46L91,48L93,51L92,56L89,57L87,60L86,64L86,67L84,69L85,73L84,76L83,81L86,82L84,87L81,91L81,96L81,99L87,101L92,103L94,98L97,99L100,104L103,100L108,96L107,92L103,90L101,86L98,84L97,80L93,72L86,67L86,64L91,60L93,56L95,54L97,49L99,46L98,47",
+  "id": "2017-11-12-sparnatrail",
+  "t": 26340,
+  "chrono": "7h19",
+  "officiel": true,
+  "trace": "data/traces/2017-11-12-sparnatrail.txt"
+ },
+ {
+  "date": "2017-07-01",
+  "nom": "Ultra Marin 56 km",
+  "lieu": "Sarzeau",
+  "categorie": "trail",
+  "distance_km": 58.09,
+  "denivele_m": 335,
+  "notes": "",
+  "preparation": {
+   "semaines": 10,
+   "base": "sorties longues",
+   "sorties_semaine": 3,
+   "sorties_min": 1,
+   "sorties_max": 4,
+   "sl_moy": 169,
+   "sl_max": 316,
+   "as_moy": null,
+   "as_max": null,
+   "as_seances": 0,
+   "qualite_semaine": 1,
+   "qualite_types": {
+    "fractionné": 4,
+    "côtes": 2
+   },
+   "dans_prepa_de": null,
+   "estime_gps": 1.0,
+   "hebdo": [
+    {
+     "km": 35,
+     "n": 3,
+     "q": 2
+    },
+    {
+     "km": 34,
+     "n": 3,
+     "q": 1
+    },
+    {
+     "km": 42,
+     "n": 3,
+     "q": 1
+    },
+    {
+     "km": 59,
+     "n": 4,
+     "q": 1
+    },
+    {
+     "km": 43,
+     "n": 3,
+     "q": 1
+    },
+    {
+     "km": 35,
+     "n": 3,
+     "q": 0
+    },
+    {
+     "km": 58,
+     "n": 3,
+     "q": 0
+    },
+    {
+     "km": 10,
+     "n": 1,
+     "q": 0
+    },
+    {
+     "km": 54,
+     "n": 4,
+     "q": 1
+    },
+    {
+     "km": 58,
+     "n": 4,
+     "q": 2
+    },
+    {
+     "km": 52,
+     "n": 4,
+     "q": 0
+    },
+    {
+     "km": 29,
+     "n": 3,
+     "q": 0
+    }
+   ],
+   "resume": {
+    "semaines": 10,
+    "min_sem": 271,
+    "sorties": 32,
+    "quali": 6
+   }
+  },
+  "chrono_source": "athle.fr",
+  "depart": [
+   47.5275,
+   -2.7683
+  ],
+  "mini": "M58,101L62,103L66,103L71,100L76,94L72,94L76,90L78,86L77,82L82,83L82,73L79,73L79,70L81,68L84,66L87,62L90,60L90,57L91,54L93,55L94,58L96,58L96,57L94,56L95,53L98,53L99,51L102,47L106,49L106,44L103,39L100,34L104,24L101,19L97,17L89,13L86,10L86,16L84,20L83,23L83,27L82,30L83,33L77,36L76,38L77,41L74,44L77,47L74,45L72,43L70,41L65,39L63,34L59,36L55,33L53,29L54,27L58,30L63,33L67,35L73,36L77,36L72,32L71,27L69,23L69,27L69,30L65,26L63,22L65,20L62,16L63,10L63,7",
+  "id": "2017-07-01-ultra-marin-56-km",
+  "t": 23940,
+  "chrono": "6h39",
+  "officiel": true,
+  "trace": "data/traces/2017-07-01-ultra-marin-56-km.txt"
+ },
+ {
+  "date": "2017-05-26",
+  "nom": "Volvic Volcanic Experience 40",
+  "lieu": "Volvic",
+  "categorie": "trail",
+  "distance_km": 41.21,
+  "denivele_m": 1306,
+  "notes": "",
+  "preparation": {
+   "semaines": 8,
+   "base": "séances",
+   "sorties_semaine": 3,
+   "sorties_min": 2,
+   "sorties_max": 4,
+   "sl_moy": 119,
+   "sl_max": 178,
+   "as_moy": null,
+   "as_max": null,
+   "as_seances": 0,
+   "qualite_semaine": 1,
+   "qualite_types": {
+    "fractionné": 4,
+    "côtes": 2
+   },
+   "dans_prepa_de": null,
+   "estime_gps": 1.0,
+   "hebdo": [
+    {
+     "km": 76,
+     "n": 5,
+     "q": 1
+    },
+    {
+     "km": 23,
+     "n": 2,
+     "q": 1
+    },
+    {
+     "km": 79,
+     "n": 1,
+     "q": 0
+    },
+    {
+     "km": 0,
+     "n": 0,
+     "q": 0
+    },
+    {
+     "km": 23,
+     "n": 2,
+     "q": 0
+    },
+    {
+     "km": 45,
+     "n": 4,
+     "q": 2
+    },
+    {
+     "km": 25,
+     "n": 2,
+     "q": 0
+    },
+    {
+     "km": 40,
+     "n": 3,
+     "q": 2
+    },
+    {
+     "km": 59,
+     "n": 4,
+     "q": 1
+    },
+    {
+     "km": 54,
+     "n": 4,
+     "q": 1
+    },
+    {
+     "km": 35,
+     "n": 3,
+     "q": 0
+    },
+    {
+     "km": 17,
+     "n": 2,
+     "q": 0
+    }
+   ],
+   "resume": {
+    "semaines": 8,
+    "min_sem": 221,
+    "sorties": 24,
+    "quali": 6
+   }
+  },
+  "chrono_source": "athle.fr",
+  "depart": [
+   45.8718,
+   3.028
+  ],
+  "mini": "M121,52L127,54L130,50L126,49L120,48L121,41L120,36L117,35L113,29L109,29L108,32L110,33L111,38L114,43L109,43L108,40L103,37L102,34L97,32L96,26L88,23L87,18L85,15L81,14L78,6L73,8L74,12L75,15L67,12L57,20L54,25L47,25L39,21L36,23L34,35L32,40L28,46L27,53L33,56L31,63L37,69L44,73L44,76L39,77L35,79L38,79L40,82L35,85L31,87L29,94L41,95L47,99L50,104L53,98L55,93L57,89L58,85L54,82L59,81L64,83L67,84L70,87L69,83L74,82L78,78L85,77L91,80L98,81L105,76L115,69L118,73L121,73L127,70L129,65L134,63L131,55L127,54L125,51L121,52L121,52",
+  "id": "2017-05-26-volvic-volcanic-experience-40",
+  "t": 19620,
+  "chrono": "5h27",
+  "officiel": true,
+  "trace": "data/traces/2017-05-26-volvic-volcanic-experience-40.txt"
+ },
+ {
+  "date": "2017-03-18",
+  "nom": "Ecotrail de Paris 80",
+  "lieu": "Trappes → Paris",
+  "categorie": "trail",
+  "distance_km": 79.49,
+  "denivele_m": 1410,
+  "notes": "",
+  "preparation": {
+   "semaines": 12,
+   "base": "séances",
+   "sorties_semaine": 4,
+   "sorties_min": 3,
+   "sorties_max": 4,
+   "sl_moy": 153,
+   "sl_max": 275,
+   "as_moy": null,
+   "as_max": null,
+   "as_seances": 0,
+   "qualite_semaine": 1,
+   "qualite_types": {
+    "côtes": 7,
+    "fractionné": 2
+   },
+   "dans_prepa_de": null,
+   "estime_gps": 1.0,
+   "hebdo": [
+    {
+     "km": 39,
+     "n": 3,
+     "q": 1
+    },
+    {
+     "km": 37,
+     "n": 3,
+     "q": 1
+    },
+    {
+     "km": 50,
+     "n": 4,
+     "q": 1
+    },
+    {
+     "km": 54,
+     "n": 4,
+     "q": 2
+    },
+    {
+     "km": 43,
+     "n": 3,
+     "q": 0
+    },
+    {
+     "km": 49,
+     "n": 4,
+     "q": 1
+    },
+    {
+     "km": 55,
+     "n": 4,
+     "q": 1
+    },
+    {
+     "km": 62,
+     "n": 4,
+     "q": 0
+    },
+    {
+     "km": 64,
+     "n": 4,
+     "q": 1
+    },
+    {
+     "km": 65,
+     "n": 3,
+     "q": 0
+    },
+    {
+     "km": 65,
+     "n": 4,
+     "q": 1
+    },
+    {
+     "km": 23,
+     "n": 2,
+     "q": 1
+    }
+   ],
+   "resume": {
+    "semaines": 12,
+    "min_sem": 306,
+    "sorties": 42,
+    "quali": 10
+   }
+  },
+  "chrono_source": "athle.fr",
+  "depart": [
+   48.7828,
+   2.0092
+  ],
+  "mini": "M14,79L21,78L16,77L11,78L8,76L9,70L17,72L26,75L30,75L33,79L38,82L44,81L51,79L48,75L45,72L51,75L57,80L59,84L63,84L68,86L71,85L67,83L70,81L75,77L76,84L81,87L86,87L90,82L89,75L92,74L90,70L91,67L96,72L102,71L104,74L111,77L111,73L124,71L127,73L132,65L131,61L130,64L124,62L123,61L121,65L118,63L119,68L111,68L109,70L109,67L108,63L104,63L104,62L107,59L105,54L102,52L96,51L92,49L95,43L99,43L105,41L112,40L116,42L116,40L120,45L124,50L131,50L133,47L139,41L147,29L152,23L154,23L154,23",
+  "id": "2017-03-18-ecotrail-de-paris-80",
+  "t": 38340,
+  "chrono": "10h39",
+  "officiel": true,
+  "trace": "data/traces/2017-03-18-ecotrail-de-paris-80.txt"
+ },
+ {
+  "date": "2016-11-27",
+  "nom": "Marathon de La Rochelle",
+  "lieu": "La Rochelle",
+  "categorie": "marathon",
+  "distance_km": 42.65,
+  "denivele_m": 120,
+  "notes": "",
+  "preparation": {
+   "semaines": 12,
+   "base": "séances",
+   "sorties_semaine": 4,
+   "sorties_min": 3,
+   "sorties_max": 5,
+   "sl_moy": 118,
+   "sl_max": 149,
+   "as_moy": 47,
+   "as_max": 56,
+   "as_seances": 6,
+   "qualite_semaine": 1,
+   "qualite_types": {
+    "fractionné": 6
+   },
+   "dans_prepa_de": null,
+   "estime_gps": 1.0,
+   "hebdo": [
+    {
+     "km": 44,
+     "n": 3,
+     "q": 1
+    },
+    {
+     "km": 42,
+     "n": 3,
+     "q": 1
+    },
+    {
+     "km": 43,
+     "n": 3,
+     "q": 0
+    },
+    {
+     "km": 62,
+     "n": 5,
+     "q": 1
+    },
+    {
+     "km": 30,
+     "n": 3,
+     "q": 1
+    },
+    {
+     "km": 55,
+     "n": 4,
+     "q": 1
+    },
+    {
+     "km": 54,
+     "n": 4,
+     "q": 0
+    },
+    {
+     "km": 60,
+     "n": 4,
+     "q": 0
+    },
+    {
+     "km": 31,
+     "n": 3,
+     "q": 1
+    },
+    {
+     "km": 56,
+     "n": 4,
+     "q": 0
+    },
+    {
+     "km": 47,
+     "n": 4,
+     "q": 0
+    },
+    {
+     "km": 28,
+     "n": 3,
+     "q": 0
+    }
+   ],
+   "resume": {
+    "semaines": 12,
+    "min_sem": 260,
+    "sorties": 43,
+    "quali": 6
+   }
+  },
+  "chrono_source": "athle.fr",
+  "depart": [
+   46.1591,
+   -1.1487
+  ],
+  "split_ratio": 10.2,
+  "mini": "M117,44L105,47L85,43L59,37L51,51L45,59L32,58L41,42L32,39L26,36L40,26L38,17L59,18L80,9L85,21L90,33L105,35L114,15L122,14L131,27L129,34L118,44L116,53L116,62L115,70L112,78L106,76L101,86L107,92L106,103L99,96L94,89L96,73L109,59L112,74L114,58L112,47L100,50L89,52L69,58L50,59L36,60L34,54L45,37L26,40L36,35L39,25L38,16L57,19L83,6L83,29L104,34L112,22L118,12L134,19L132,26L131,34L117,44L115,51L116,59L115,65L113,78L108,75L100,87L108,92L102,102L97,94L96,77L100,61L109,65L112,72L115,54L108,47L103,54",
+  "id": "2016-11-27-marathon-de-la-rochelle",
+  "t": 13680,
+  "chrono": "3h48",
+  "officiel": true,
+  "splits": [
+   330,
+   315,
+   305,
+   300,
+   315,
+   300,
+   310,
+   300,
+   295,
+   300,
+   305,
+   300,
+   305,
+   290,
+   315,
+   300,
+   300,
+   330,
+   300,
+   300,
+   300,
+   305,
+   305,
+   475,
+   330,
+   305,
+   305,
+   310,
+   315,
+   310,
+   315,
+   325,
+   325,
+   310,
+   315,
+   370,
+   340,
+   330,
+   330,
+   360,
+   350,
+   425
+  ],
+  "trace": "data/traces/2016-11-27-marathon-de-la-rochelle.txt"
+ },
+ {
+  "date": "2016-06-12",
+  "nom": "Marathon de la Liberté",
+  "lieu": "Caen / Courseulles-sur-Mer",
+  "categorie": "marathon",
+  "distance_km": 42.46,
+  "denivele_m": 91,
+  "notes": "",
+  "preparation": {
+   "semaines": 12,
+   "base": "séances",
+   "sorties_semaine": 3,
+   "sorties_min": 1,
+   "sorties_max": 4,
+   "sl_moy": 114,
+   "sl_max": 158,
+   "as_moy": 25,
+   "as_max": 25,
+   "as_seances": 1,
+   "qualite_semaine": 1,
+   "qualite_types": {
+    "fractionné": 7
+   },
+   "dans_prepa_de": null,
+   "estime_gps": 1.0,
+   "hebdo": [
+    {
+     "km": 35,
+     "n": 3,
+     "q": 1
+    },
+    {
+     "km": 38,
+     "n": 3,
+     "q": 1
+    },
+    {
+     "km": 52,
+     "n": 3,
+     "q": 0
+    },
+    {
+     "km": 42,
+     "n": 4,
+     "q": 1
+    },
+    {
+     "km": 24,
+     "n": 1,
+     "q": 0
+    },
+    {
+     "km": 20,
+     "n": 2,
+     "q": 1
+    },
+    {
+     "km": 55,
+     "n": 4,
+     "q": 1
+    },
+    {
+     "km": 53,
+     "n": 4,
+     "q": 1
+    },
+    {
+     "km": 66,
+     "n": 4,
+     "q": 1
+    },
+    {
+     "km": 31,
+     "n": 3,
+     "q": 0
+    },
+    {
+     "km": 50,
+     "n": 4,
+     "q": 0
+    },
+    {
+     "km": 41,
+     "n": 4,
+     "q": 0
+    }
+   ],
+   "resume": {
+    "semaines": 12,
+    "min_sem": 241,
+    "sorties": 39,
+    "quali": 7
+   }
+  },
+  "chrono_source": "athle.fr",
+  "depart": [
+   49.33,
+   -0.4431
+  ],
+  "split_ratio": 1.8,
+  "mini": "M42,9L46,9L47,8L49,6L54,6L56,7L61,8L63,9L68,11L70,12L73,13L78,16L88,23L90,25L94,28L97,29L98,29L102,30L109,32L114,33L118,35L118,38L118,39L118,42L117,45L116,49L115,52L112,54L109,60L108,63L105,67L102,70L101,69L100,69L99,70L96,69L96,69L94,68L95,67L92,65L89,62L89,60L87,61L86,59L86,57L86,54L82,53L81,52L80,53L78,54L75,55L73,55L72,55L71,55L70,56L69,59L68,60L67,61L68,62L66,63L65,65L66,68L67,69L69,75L70,78L68,80L68,84L69,87L69,88L71,91L71,94L72,95L72,96L71,98L70,99L70,99L70,103L69,104L68,104",
+  "id": "2016-06-12-marathon-de-la-liberte",
+  "t": 13740,
+  "chrono": "3h49",
+  "officiel": true,
+  "splits": [
+   320,
+   310,
+   315,
+   320,
+   320,
+   330,
+   325,
+   325,
+   325,
+   320,
+   325,
+   315,
+   320,
+   320,
+   315,
+   320,
+   325,
+   325,
+   320,
+   320,
+   330,
+   340,
+   330,
+   330,
+   340,
+   320,
+   310,
+   325,
+   330,
+   350,
+   335,
+   330,
+   335,
+   340,
+   365,
+   335,
+   330,
+   325,
+   300,
+   310,
+   320,
+   305
+  ],
+  "trace": "data/traces/2016-06-12-marathon-de-la-liberte.txt"
+ },
+ {
+  "date": "2015-09-27",
+  "nom": "Trail du Sancy 34",
+  "lieu": "Le Mont-Dore",
+  "categorie": "trail",
+  "distance_km": 34.09,
+  "denivele_m": 1928,
+  "notes": "",
+  "preparation": {
+   "semaines": 12,
+   "base": "séances",
+   "sorties_semaine": 3,
+   "sorties_min": 2,
+   "sorties_max": 5,
+   "sl_moy": 140,
+   "sl_max": 222,
+   "as_moy": null,
+   "as_max": null,
+   "as_seances": 0,
+   "qualite_semaine": 1,
+   "qualite_types": {
+    "côtes": 8,
+    "fractionné": 4
+   },
+   "dans_prepa_de": null,
+   "estime_gps": 1.0,
+   "hebdo": [
+    {
+     "km": 42,
+     "n": 3,
+     "q": 1
+    },
+    {
+     "km": 62,
+     "n": 4,
+     "q": 2
+    },
+    {
+     "km": 35,
+     "n": 3,
+     "q": 2
+    },
+    {
+     "km": 71,
+     "n": 4,
+     "q": 1
+    },
+    {
+     "km": 61,
+     "n": 3,
+     "q": 1
+    },
+    {
+     "km": 62,
+     "n": 4,
+     "q": 1
+    },
+    {
+     "km": 54,
+     "n": 4,
+     "q": 1
+    },
+    {
+     "km": 29,
+     "n": 2,
+     "q": 0
+    },
+    {
+     "km": 83,
+     "n": 5,
+     "q": 1
+    },
+    {
+     "km": 33,
+     "n": 3,
+     "q": 1
+    },
+    {
+     "km": 45,
+     "n": 3,
+     "q": 1
+    },
+    {
+     "km": 31,
+     "n": 3,
+     "q": 0
+    }
+   ],
+   "resume": {
+    "semaines": 12,
+    "min_sem": 302,
+    "sorties": 41,
+    "quali": 12
+   }
+  },
+  "chrono_source": "athle.fr",
+  "depart": [
+   45.5737,
+   2.8088
+  ],
+  "mini": "M65,40L66,38L64,36L61,29L59,22L63,22L67,22L69,22L69,20L72,17L74,16L76,15L78,14L80,12L85,9L90,7L95,6L101,11L96,14L94,15L95,16L96,20L96,25L96,29L91,35L89,42L85,45L84,52L82,59L86,68L84,70L86,74L85,77L87,80L92,77L95,76L100,74L100,77L98,79L96,81L95,83L95,83L96,85L96,87L97,89L100,88L100,88L100,91L99,97L97,101L89,104L84,103L79,102L72,97L70,96L68,94L64,92L61,91L60,89L61,86L64,80L64,78L68,73L66,65L65,63L66,57L63,53L64,50L64,46L64,43L64,42L66,40L65,40",
+  "id": "2015-09-27-trail-du-sancy-34",
+  "t": 22020,
+  "chrono": "6h07",
+  "officiel": true,
+  "trace": "data/traces/2015-09-27-trail-du-sancy-34.txt"
+ },
+ {
+  "date": "2015-06-06",
+  "nom": "Trail du Muguet 21 km",
+  "lieu": "",
+  "categorie": "courte",
+  "distance_km": 21.0,
+  "denivele_m": null,
+  "notes": "",
+  "preparation": {
+   "semaines": 0,
+   "base": "séances",
+   "sorties_semaine": 3,
+   "sorties_min": 3,
+   "sorties_max": 3,
+   "sl_moy": 101,
+   "sl_max": 124,
+   "as_moy": null,
+   "as_max": null,
+   "as_seances": 0,
+   "qualite_semaine": 2,
+   "qualite_types": {
+    "côtes": 4,
+    "fractionné": 2
+   },
+   "dans_prepa_de": null,
+   "estime_gps": 1.0,
+   "hebdo": [
+    {
+     "km": 35,
+     "n": 4,
+     "q": 2
+    },
+    {
+     "km": 53,
+     "n": 3,
+     "q": 1
+    },
+    {
+     "km": 47,
+     "n": 4,
+     "q": 1
+    },
+    {
+     "km": 38,
+     "n": 4,
+     "q": 0
+    },
+    {
+     "km": 43,
+     "n": 1,
+     "q": 0
+    },
+    {
+     "km": 0,
+     "n": 0,
+     "q": 0
+    },
+    {
+     "km": 0,
+     "n": 0,
+     "q": 0
+    },
+    {
+     "km": 21,
+     "n": 2,
+     "q": 0
+    },
+    {
+     "km": 33,
+     "n": 3,
+     "q": 2
+    },
+    {
+     "km": 29,
+     "n": 3,
+     "q": 2
+    },
+    {
+     "km": 42,
+     "n": 3,
+     "q": 2
+    },
+    {
+     "km": 34,
+     "n": 3,
+     "q": 1
+    }
+   ],
+   "resume": {
+    "semaines": 12,
+    "min_sem": 175,
+    "sorties": 30,
+    "quali": 11
+   }
+  },
+  "chrono_source": "athle.fr",
+  "id": "2015-06-06-trail-du-muguet-21-km",
+  "t": 6660,
+  "chrono": "1h51",
+  "officiel": true
+ },
+ {
+  "date": "2015-04-12",
+  "nom": "Marathon de Paris",
+  "lieu": "Paris",
+  "categorie": "marathon",
+  "distance_km": 42.55,
+  "denivele_m": 223,
+  "notes": "",
+  "preparation": {
+   "semaines": 12,
+   "base": "séances",
+   "sorties_semaine": 4,
+   "sorties_min": 2,
+   "sorties_max": 5,
+   "sl_moy": 124,
+   "sl_max": 228,
+   "as_moy": 38,
+   "as_max": 49,
+   "as_seances": 4,
+   "qualite_semaine": 1,
+   "qualite_types": {
+    "fractionné": 11,
+    "seuil": 2
+   },
+   "dans_prepa_de": null,
+   "estime_gps": 1.0,
+   "hebdo": [
+    {
+     "km": 51,
+     "n": 4,
+     "q": 1
+    },
+    {
+     "km": 51,
+     "n": 4,
+     "q": 2
+    },
+    {
+     "km": 53,
+     "n": 4,
+     "q": 1
+    },
+    {
+     "km": 36,
+     "n": 3,
+     "q": 1
+    },
+    {
+     "km": 72,
+     "n": 5,
+     "q": 1
+    },
+    {
+     "km": 35,
+     "n": 3,
+     "q": 1
+    },
+    {
+     "km": 61,
+     "n": 4,
+     "q": 2
+    },
+    {
+     "km": 46,
+     "n": 4,
+     "q": 0
+    },
+    {
+     "km": 67,
+     "n": 4,
+     "q": 2
+    },
+    {
+     "km": 20,
+     "n": 2,
+     "q": 1
+    },
+    {
+     "km": 47,
+     "n": 4,
+     "q": 1
+    },
+    {
+     "km": 38,
+     "n": 4,
+     "q": 0
+    }
+   ],
+   "resume": {
+    "semaines": 12,
+    "min_sem": 262,
+    "sorties": 45,
+    "quali": 13
+   }
+  },
+  "chrono_source": "athle.fr",
+  "depart": [
+   48.8702,
+   2.3063
+  ],
+  "split_ratio": 5.0,
+  "mini": "M51,29L61,33L70,36L72,37L77,40L79,41L90,45L94,47L96,47L100,49L103,50L105,50L108,55L111,58L113,61L120,65L122,67L127,69L130,73L131,71L130,66L136,62L141,61L147,67L154,75L150,74L149,77L147,83L141,82L137,78L131,78L127,77L121,75L117,72L111,65L108,61L106,58L101,54L97,52L95,47L92,53L89,51L88,47L83,45L79,43L65,37L56,35L50,35L42,37L37,43L32,48L28,53L24,55L20,55L18,55L14,55L9,54L7,53L7,52L17,52L19,47L20,42L16,41L11,46L7,47L7,42L18,28L21,28L22,31L26,28L29,28L31,27L32,27",
+  "id": "2015-04-12-marathon-de-paris",
+  "t": 12600,
+  "chrono": "3h30",
+  "officiel": true,
+  "splits": [
+   290,
+   295,
+   300,
+   290,
+   290,
+   295,
+   300,
+   300,
+   295,
+   295,
+   290,
+   290,
+   295,
+   300,
+   300,
+   295,
+   280,
+   285,
+   290,
+   280,
+   290,
+   290,
+   300,
+   290,
+   290,
+   480,
+   125,
+   315,
+   275,
+   295,
+   295,
+   300,
+   290,
+   295,
+   305,
+   310,
+   295,
+   305,
+   300,
+   305,
+   355,
+   345
+  ],
+  "trace": "data/traces/2015-04-12-marathon-de-paris.txt"
+ },
+ {
+  "date": "2014-12-06",
+  "nom": "SaintExpress (SaintéLyon)",
+  "lieu": "Sainte-Catherine → Lyon",
+  "categorie": "trail",
+  "distance_km": 45.24,
+  "denivele_m": 982,
+  "notes": "",
+  "preparation": {
+   "semaines": 12,
+   "base": "séances",
+   "sorties_semaine": 4,
+   "sorties_min": 3,
+   "sorties_max": 4,
+   "sl_moy": 120,
+   "sl_max": 184,
+   "as_moy": null,
+   "as_max": null,
+   "as_seances": 0,
+   "qualite_semaine": 2,
+   "qualite_types": {
+    "côtes": 11,
+    "fractionné": 9,
+    "seuil": 1
+   },
+   "dans_prepa_de": null,
+   "estime_gps": 1.0,
+   "hebdo": [
+    {
+     "km": 34,
+     "n": 3,
+     "q": 1
+    },
+    {
+     "km": 52,
+     "n": 4,
+     "q": 3
+    },
+    {
+     "km": 56,
+     "n": 4,
+     "q": 2
+    },
+    {
+     "km": 55,
+     "n": 4,
+     "q": 2
+    },
+    {
+     "km": 52,
+     "n": 4,
+     "q": 1
+    },
+    {
+     "km": 54,
+     "n": 4,
+     "q": 3
+    },
+    {
+     "km": 61,
+     "n": 4,
+     "q": 2
+    },
+    {
+     "km": 54,
+     "n": 4,
+     "q": 2
+    },
+    {
+     "km": 62,
+     "n": 4,
+     "q": 1
+    },
+    {
+     "km": 52,
+     "n": 4,
+     "q": 2
+    },
+    {
+     "km": 56,
+     "n": 4,
+     "q": 2
+    },
+    {
+     "km": 17,
+     "n": 3,
+     "q": 0
+    }
+   ],
+   "resume": {
+    "semaines": 12,
+    "min_sem": 282,
+    "sorties": 46,
+    "quali": 21
+   }
+  },
+  "chrono_source": "athle.fr",
+  "depart": [
+   45.5954,
+   4.5678
+  ],
+  "mini": "M15,104L18,101L23,100L22,98L27,95L31,94L33,92L35,89L36,88L36,86L38,85L37,83L36,81L34,81L32,79L34,77L33,73L34,73L36,74L38,73L42,74L45,75L47,74L48,70L50,72L51,69L54,71L58,72L60,68L63,65L63,62L65,61L70,57L73,53L75,48L79,46L79,46L81,45L81,42L88,38L89,38L91,40L94,37L96,38L96,41L100,44L103,41L104,38L104,33L104,29L105,25L105,24L106,24L108,27L111,25L112,23L116,21L116,16L118,14L120,11L122,11L125,11L127,11L126,12L128,12L130,11L133,11L135,10L138,8L138,8L140,6L141,10L144,13L145,13",
+  "id": "2014-12-06-saintexpress-saintelyon",
+  "t": 20820,
+  "chrono": "5h47",
+  "officiel": true,
+  "trace": "data/traces/2014-12-06-saintexpress-saintelyon.txt"
+ },
+ {
+  "date": "2014-11-02",
+  "nom": "Ekiden de Paris (relais 10 km)",
+  "lieu": "Paris",
+  "categorie": "courte",
+  "distance_km": 9.55,
+  "denivele_m": 136,
+  "notes": "",
+  "preparation": {
+   "semaines": 8,
+   "base": "séances",
+   "sorties_semaine": 3,
+   "sorties_min": 1,
+   "sorties_max": 4,
+   "sl_moy": 109,
+   "sl_max": 149,
+   "as_moy": null,
+   "as_max": null,
+   "as_seances": 0,
+   "qualite_semaine": 2,
+   "qualite_types": {
+    "côtes": 6,
+    "fractionné": 6
+   },
+   "dans_prepa_de": {
+    "id": "2014-12-06-saintexpress-saintelyon",
+    "nom": "SaintExpress (SaintéLyon)",
+    "date": "2014-12-06"
+   },
+   "estime_gps": 1.0,
+   "hebdo": [
+    {
+     "km": 36,
+     "n": 4,
+     "q": 1
+    },
+    {
+     "km": 23,
+     "n": 2,
+     "q": 0
+    },
+    {
+     "km": 26,
+     "n": 3,
+     "q": 0
+    },
+    {
+     "km": 27,
+     "n": 3,
+     "q": 0
+    },
+    {
+     "km": 12,
+     "n": 1,
+     "q": 0
+    },
+    {
+     "km": 38,
+     "n": 3,
+     "q": 2
+    },
+    {
+     "km": 54,
+     "n": 4,
+     "q": 2
+    },
+    {
+     "km": 55,
+     "n": 4,
+     "q": 2
+    },
+    {
+     "km": 59,
+     "n": 4,
+     "q": 2
+    },
+    {
+     "km": 46,
+     "n": 4,
+     "q": 2
+    },
+    {
+     "km": 63,
+     "n": 4,
+     "q": 2
+    },
+    {
+     "km": 58,
+     "n": 4,
+     "q": 2
+    }
+   ],
+   "resume": {
+    "semaines": 8,
+    "min_sem": 272,
+    "sorties": 28,
+    "quali": 14
+   }
+  },
+  "depart": [
+   48.8553,
+   2.3532
+  ],
+  "mini": "M84,36L83,36L80,34L78,34L72,30L69,30L58,23L52,21L51,20L51,19L50,18L49,19L46,18L44,17L33,14L28,11L15,7L12,6L13,7L15,7L15,7L25,9L29,13L34,15L49,21L50,21L53,23L62,26L66,29L73,32L75,35L83,39L94,47L106,53L114,57L124,63L125,64L127,67L128,75L127,80L128,82L130,86L143,100L147,104L143,98L128,86L128,83L127,76L129,72L128,72L127,66L125,62L113,56L108,52L101,49L96,45L93,43L85,39L81,36L79,35L76,34L74,32L73,30L69,30L62,26L25,11L16,8L13,7L14,8L27,12L41,18L47,20L50,21L51,21L54,23L70,31L75,35L84,39L95,47L108,53L114,57L124,62L126,66L128,80L128,83L130,85L144,98L146,102L148,104L143,98L143,96L129,83L127,78L127,74L128,73L127,66L124,63L96,45L94,43L93,43L84,38L84,38",
+  "id": "2014-11-02-ekiden-de-paris-relais-10-km",
+  "t": 2640,
+  "chrono": "44 min",
+  "officiel": true,
+  "trace": "data/traces/2014-11-02-ekiden-de-paris-relais-10-km.txt"
+ },
+ {
+  "date": "2014-09-07",
+  "nom": "Course nature 18 km du Mont-Dore",
+  "lieu": "Le Mont-Dore",
+  "categorie": "courte",
+  "distance_km": 18.0,
+  "denivele_m": null,
+  "notes": "",
+  "preparation": null,
+  "chrono_source": "athle.fr",
+  "id": "2014-09-07-course-nature-18-km-du-mont-dore",
+  "t": 9600,
+  "chrono": "2h40",
+  "officiel": true
+ },
+ {
+  "date": "2014-03-29",
+  "nom": "Ecotrail de Paris 80",
+  "lieu": "Trappes → Paris",
+  "categorie": "trail",
+  "distance_km": 79.49,
+  "denivele_m": 1287,
+  "notes": "",
+  "preparation": {
+   "semaines": 8,
+   "base": "séances",
+   "sorties_semaine": 4,
+   "sorties_min": 3,
+   "sorties_max": 4,
+   "sl_moy": 147,
+   "sl_max": 204,
+   "as_moy": null,
+   "as_max": null,
+   "as_seances": 0,
+   "qualite_semaine": 1,
+   "qualite_types": {
+    "côtes": 6
+   },
+   "dans_prepa_de": null,
+   "estime_gps": 1.0,
+   "hebdo": [
+    {
+     "km": 34,
+     "n": 3,
+     "q": 1
+    },
+    {
+     "km": 46,
+     "n": 3,
+     "q": 0
+    },
+    {
+     "km": 63,
+     "n": 4,
+     "q": 2
+    },
+    {
+     "km": 52,
+     "n": 3,
+     "q": 0
+    },
+    {
+     "km": 48,
+     "n": 3,
+     "q": 0
+    },
+    {
+     "km": 65,
+     "n": 4,
+     "q": 1
+    },
+    {
+     "km": 70,
+     "n": 4,
+     "q": 1
+    },
+    {
+     "km": 47,
+     "n": 4,
+     "q": 1
+    },
+    {
+     "km": 78,
+     "n": 4,
+     "q": 1
+    },
+    {
+     "km": 68,
+     "n": 4,
+     "q": 1
+    },
+    {
+     "km": 31,
+     "n": 3,
+     "q": 1
+    },
+    {
+     "km": 26,
+     "n": 3,
+     "q": 0
+    }
+   ],
+   "resume": {
+    "semaines": 8,
+    "min_sem": 315,
+    "sorties": 29,
+    "quali": 6
+   }
+  },
+  "chrono_source": "athle.fr",
+  "depart": [
+   48.7827,
+   2.0089
+  ],
+  "mini": "M14,80L19,78L14,78L9,78L7,74L14,72L25,76L30,76L34,80L40,83L46,82L52,79L45,75L51,75L55,79L60,83L61,88L67,86L70,89L72,87L72,85L68,83L72,82L76,79L77,85L83,88L87,86L92,80L90,74L93,75L92,71L92,68L96,73L101,73L107,75L112,78L115,73L122,71L128,75L131,69L135,66L133,62L133,65L126,63L125,63L122,64L119,66L113,69L110,70L111,68L109,65L106,64L107,60L109,57L106,53L101,50L93,52L97,45L102,44L110,44L118,43L118,42L120,44L125,49L134,50L137,45L142,40L149,30L151,27L151,23L154,20L154,20",
+  "id": "2014-03-29-ecotrail-de-paris-80",
+  "t": 35280,
+  "chrono": "9h48",
+  "officiel": true,
+  "trace": "data/traces/2014-03-29-ecotrail-de-paris-80.txt"
+ },
+ {
+  "date": "2013-11-17",
+  "nom": "Semi-marathon de Boulogne",
+  "lieu": "Boulogne-Billancourt",
+  "categorie": "courte",
+  "distance_km": 21.28,
+  "denivele_m": 59,
+  "notes": "",
+  "preparation": {
+   "semaines": 10,
+   "base": "séances",
+   "sorties_semaine": 2,
+   "sorties_min": 0,
+   "sorties_max": 4,
+   "sl_moy": 80,
+   "sl_max": 97,
+   "as_moy": null,
+   "as_max": null,
+   "as_seances": 0,
+   "qualite_semaine": 1,
+   "qualite_types": {
+    "fractionné": 6,
+    "seuil": 4
+   },
+   "dans_prepa_de": null,
+   "estime_gps": 1.0,
+   "hebdo": [
+    {
+     "km": 40,
+     "n": 4,
+     "q": 2
+    },
+    {
+     "km": 77,
+     "n": 4,
+     "q": 0
+    },
+    {
+     "km": 0,
+     "n": 0,
+     "q": 0
+    },
+    {
+     "km": 47,
+     "n": 4,
+     "q": 2
+    },
+    {
+     "km": 20,
+     "n": 2,
+     "q": 1
+    },
+    {
+     "km": 31,
+     "n": 3,
+     "q": 0
+    },
+    {
+     "km": 25,
+     "n": 2,
+     "q": 2
+    },
+    {
+     "km": 48,
+     "n": 4,
+     "q": 1
+    },
+    {
+     "km": 42,
+     "n": 3,
+     "q": 2
+    },
+    {
+     "km": 33,
+     "n": 2,
+     "q": 1
+    },
+    {
+     "km": 23,
+     "n": 2,
+     "q": 1
+    },
+    {
+     "km": 38,
+     "n": 3,
+     "q": 1
+    }
+   ],
+   "resume": {
+    "semaines": 10,
+    "min_sem": 164,
+    "sorties": 25,
+    "quali": 11
+   }
+  },
+  "chrono_source": "athle.fr",
+  "depart": [
+   48.8353,
+   2.2407
+  ],
+  "mini": "M80,74L85,78L95,80L103,83L107,84L107,86L106,87L101,92L99,95L96,98L86,103L79,104L75,102L74,102L71,100L68,98L66,96L64,94L61,92L60,90L59,87L58,79L53,71L52,69L53,61L55,56L57,47L58,42L58,38L56,32L56,28L56,23L57,19L56,21L56,27L59,28L65,31L70,33L73,33L74,33L74,30L75,24L74,15L74,12L75,9L76,6L81,11L87,15L93,17L99,17L105,16L102,18L98,24L93,29L89,30L86,28L83,25L82,28L82,35L82,40L82,41L79,37L75,35L68,33L62,31L60,31L58,30L56,30L58,39L58,44L56,53L55,57L53,63L53,68L53,71L58,78L60,87L60,90L63,93L66,96L68,97L73,101L77,103L79,104L84,103L87,102L94,98L96,98L101,92L107,85L107,84L104,83L99,81L92,80L86,78L83,76L80,74L80,74",
+  "id": "2013-11-17-semi-marathon-de-boulogne",
+  "t": 5640,
+  "chrono": "1h34",
+  "officiel": true,
+  "trace": "data/traces/2013-11-17-semi-marathon-de-boulogne.txt"
+ },
+ {
+  "date": "2013-09-07",
+  "nom": "Marathon du Médoc",
+  "lieu": "Pauillac",
+  "categorie": "marathon",
+  "distance_km": 43.04,
+  "denivele_m": 129,
+  "notes": "",
+  "preparation": {
+   "semaines": 12,
+   "base": "séances",
+   "sorties_semaine": 3,
+   "sorties_min": 3,
+   "sorties_max": 5,
+   "sl_moy": 118,
+   "sl_max": 166,
+   "as_moy": null,
+   "as_max": null,
+   "as_seances": 0,
+   "qualite_semaine": 1,
+   "qualite_types": {
+    "fractionné": 8,
+    "côtes": 1,
+    "seuil": 1
+   },
+   "dans_prepa_de": null,
+   "estime_gps": 1.0,
+   "hebdo": [
+    {
+     "km": 40,
+     "n": 3,
+     "q": 1
+    },
+    {
+     "km": 38,
+     "n": 3,
+     "q": 0
+    },
+    {
+     "km": 46,
+     "n": 4,
+     "q": 2
+    },
+    {
+     "km": 47,
+     "n": 3,
+     "q": 0
+    },
+    {
+     "km": 42,
+     "n": 3,
+     "q": 1
+    },
+    {
+     "km": 38,
+     "n": 3,
+     "q": 1
+    },
+    {
+     "km": 43,
+     "n": 5,
+     "q": 1
+    },
+    {
+     "km": 32,
+     "n": 3,
+     "q": 1
+    },
+    {
+     "km": 46,
+     "n": 3,
+     "q": 1
+    },
+    {
+     "km": 50,
+     "n": 3,
+     "q": 0
+    },
+    {
+     "km": 40,
+     "n": 4,
+     "q": 2
+    },
+    {
+     "km": 34,
+     "n": 3,
+     "q": 0
+    }
+   ],
+   "resume": {
+    "semaines": 12,
+    "min_sem": 240,
+    "sorties": 40,
+    "quali": 10
+   }
+  },
+  "depart": [
+   45.1958,
+   -0.7445
+  ],
+  "split_ratio": -10.6,
+  "mini": "M90,61L89,63L85,63L80,63L78,65L78,66L75,71L73,77L68,84L65,87L63,88L65,94L66,95L69,98L70,98L71,97L74,98L74,100L77,100L83,99L85,101L89,100L91,101L92,101L95,104L96,104L96,103L96,99L92,99L93,94L92,88L91,85L88,81L86,76L88,73L86,74L85,70L84,66L84,65L86,65L87,63L87,60L87,57L86,56L84,52L81,51L77,50L74,50L76,45L78,44L77,42L76,38L75,35L72,32L72,28L74,25L74,25L76,25L75,24L73,24L68,23L67,22L66,22L64,21L65,16L66,14L69,13L71,12L73,12L74,8L77,6L78,7L77,10L78,16L80,18L86,19L87,25L88,40L88,52L88,53L89,55",
+  "id": "2013-09-07-marathon-du-medoc",
+  "t": 16560,
+  "chrono": "4h36",
+  "officiel": false,
+  "splits": [
+   520,
+   475,
+   665,
+   370,
+   370,
+   365,
+   535,
+   365,
+   405,
+   480,
+   340,
+   370,
+   390,
+   370,
+   425,
+   365,
+   355,
+   360,
+   345,
+   355,
+   360,
+   355,
+   400,
+   380,
+   370,
+   355,
+   345,
+   370,
+   400,
+   345,
+   350,
+   390,
+   335,
+   385,
+   320,
+   345,
+   350,
+   380,
+   470,
+   355,
+   340,
+   360
+  ],
+  "trace": "data/traces/2013-09-07-marathon-du-medoc.txt"
+ },
+ {
+  "date": "2013-05-18",
+  "nom": "Ecotrail 50 km (course off)",
+  "lieu": "Versailles",
+  "categorie": "trail",
+  "distance_km": 51.13,
+  "denivele_m": 222,
+  "notes": "",
+  "preparation": {
+   "semaines": 8,
+   "base": "séances",
+   "sorties_semaine": 3,
+   "sorties_min": 0,
+   "sorties_max": 4,
+   "sl_moy": 143,
+   "sl_max": 184,
+   "as_moy": null,
+   "as_max": null,
+   "as_seances": 0,
+   "qualite_semaine": 0,
+   "qualite_types": {
+    "côtes": 3
+   },
+   "dans_prepa_de": null,
+   "estime_gps": 1.0,
+   "hebdo": [
+    {
+     "km": 43,
+     "n": 2,
+     "q": 0
+    },
+    {
+     "km": 0,
+     "n": 0,
+     "q": 0
+    },
+    {
+     "km": 0,
+     "n": 0,
+     "q": 0
+    },
+    {
+     "km": 0,
+     "n": 0,
+     "q": 0
+    },
+    {
+     "km": 0,
+     "n": 0,
+     "q": 0
+    },
+    {
+     "km": 23,
+     "n": 2,
+     "q": 0
+    },
+    {
+     "km": 53,
+     "n": 4,
+     "q": 1
+    },
+    {
+     "km": 61,
+     "n": 4,
+     "q": 0
+    },
+    {
+     "km": 66,
+     "n": 4,
+     "q": 1
+    },
+    {
+     "km": 56,
+     "n": 3,
+     "q": 0
+    },
+    {
+     "km": 53,
+     "n": 4,
+     "q": 1
+    },
+    {
+     "km": 31,
+     "n": 3,
+     "q": 0
+    }
+   ],
+   "resume": {
+    "semaines": 8,
+    "min_sem": 255,
+    "sorties": 24,
+    "quali": 3
+   }
+  },
+  "depart": [
+   48.8073,
+   2.1077
+  ],
+  "mini": "M15,71L14,71L7,75L6,74L28,90L29,92L28,94L32,98L34,97L59,91L59,90L59,89L70,92L70,91L84,81L72,54L70,55L69,55L68,56L65,55L64,56L68,45L68,44L70,43L71,45L74,46L75,46L77,45L77,43L77,42L77,42L78,41L80,41L83,42L86,45L87,45L91,47L95,47L96,45L98,44L98,42L98,46L99,46L99,47L99,46L99,48L102,45L103,46L105,49L107,52L109,54L110,54L117,56L118,56L122,54L122,54L123,52L123,51L124,50L126,48L127,47L129,45L130,45L133,41L134,39L138,33L139,31L142,27L145,23L146,22L146,22L150,16L152,16L152,14L154,12",
+  "id": "2013-05-18-ecotrail-50-km-course-off",
+  "t": 19500,
+  "chrono": "5h25",
+  "officiel": false,
+  "trace": "data/traces/2013-05-18-ecotrail-50-km-course-off.txt"
+ },
+ {
+  "date": "2012-11-25",
+  "nom": "Marathon de La Rochelle",
+  "lieu": "La Rochelle",
+  "categorie": "marathon",
+  "distance_km": 42.46,
+  "denivele_m": 119,
+  "notes": "",
+  "preparation": {
+   "semaines": 12,
+   "base": "séances",
+   "sorties_semaine": 4,
+   "sorties_min": 2,
+   "sorties_max": 5,
+   "sl_moy": 117,
+   "sl_max": 175,
+   "as_moy": 33,
+   "as_max": 64,
+   "as_seances": 11,
+   "qualite_semaine": 2,
+   "qualite_types": {
+    "seuil": 13,
+    "fractionné": 7,
+    "côtes": 1
+   },
+   "dans_prepa_de": null,
+   "estime_gps": 1.0,
+   "hebdo": [
+    {
+     "km": 23,
+     "n": 2,
+     "q": 1
+    },
+    {
+     "km": 33,
+     "n": 3,
+     "q": 3
+    },
+    {
+     "km": 56,
+     "n": 4,
+     "q": 2
+    },
+    {
+     "km": 65,
+     "n": 4,
+     "q": 2
+    },
+    {
+     "km": 74,
+     "n": 5,
+     "q": 3
+    },
+    {
+     "km": 74,
+     "n": 5,
+     "q": 2
+    },
+    {
+     "km": 67,
+     "n": 4,
+     "q": 1
+    },
+    {
+     "km": 90,
+     "n": 5,
+     "q": 2
+    },
+    {
+     "km": 56,
+     "n": 4,
+     "q": 2
+    },
+    {
+     "km": 75,
+     "n": 4,
+     "q": 2
+    },
+    {
+     "km": 55,
+     "n": 4,
+     "q": 1
+    },
+    {
+     "km": 33,
+     "n": 3,
+     "q": 0
+    }
+   ],
+   "resume": {
+    "semaines": 12,
+    "min_sem": 311,
+    "sorties": 47,
+    "quali": 21
+   }
+  },
+  "chrono_source": "athle.fr",
+  "depart": [
+   46.1591,
+   -1.1488
+  ],
+  "split_ratio": -0.6,
+  "mini": "M116,44L105,47L85,42L54,36L51,52L46,59L31,57L37,47L36,38L31,35L39,25L38,16L44,17L80,8L85,19L103,34L111,26L118,12L134,19L132,27L129,34L120,44L113,48L116,59L115,69L113,78L105,76L100,87L108,92L101,101L96,92L96,77L101,61L109,68L112,72L115,58L108,46L100,50L91,52L63,59L46,59L31,57L45,38L26,39L37,35L37,21L57,19L83,6L83,31L109,32L115,14L130,17L130,26L135,33L123,36L114,45L118,57L116,59L114,73L109,76L105,84L105,90L107,98L99,98L95,91L96,73L109,59L109,74L114,72L115,56L109,46L103,54L103,54",
+  "id": "2012-11-25-marathon-de-la-rochelle",
+  "t": 13200,
+  "chrono": "3h40",
+  "officiel": true,
+  "splits": [
+   330,
+   310,
+   290,
+   300,
+   320,
+   310,
+   320,
+   345,
+   305,
+   320,
+   315,
+   310,
+   310,
+   300,
+   310,
+   305,
+   305,
+   305,
+   300,
+   305,
+   315,
+   305,
+   315,
+   300,
+   310,
+   315,
+   320,
+   320,
+   315,
+   305,
+   320,
+   310,
+   320,
+   310,
+   310,
+   325,
+   305,
+   305,
+   305,
+   300,
+   300,
+   290
+  ],
+  "trace": "data/traces/2012-11-25-marathon-de-la-rochelle.txt"
+ },
+ {
+  "date": "2012-09-30",
+  "nom": "Paris-Versailles",
+  "lieu": "Paris → Versailles",
+  "categorie": "courte",
+  "distance_km": 16.12,
+  "denivele_m": 229,
+  "notes": "",
+  "preparation": {
+   "semaines": 12,
+   "base": "séances",
+   "sorties_semaine": 3,
+   "sorties_min": 1,
+   "sorties_max": 4,
+   "sl_moy": 73,
+   "sl_max": 102,
+   "as_moy": null,
+   "as_max": null,
+   "as_seances": 0,
+   "qualite_semaine": 2,
+   "qualite_types": {
+    "seuil": 14,
+    "fractionné": 8
+   },
+   "dans_prepa_de": {
+    "id": "2012-11-25-marathon-de-la-rochelle",
+    "nom": "Marathon de La Rochelle",
+    "date": "2012-11-25"
+   },
+   "estime_gps": 0.95,
+   "hebdo": [
+    {
+     "km": 30,
+     "n": 3,
+     "q": 3
+    },
+    {
+     "km": 29,
+     "n": 3,
+     "q": 2
+    },
+    {
+     "km": 18,
+     "n": 2,
+     "q": 1
+    },
+    {
+     "km": 33,
+     "n": 3,
+     "q": 3
+    },
+    {
+     "km": 32,
+     "n": 3,
+     "q": 3
+    },
+    {
+     "km": 26,
+     "n": 3,
+     "q": 3
+    },
+    {
+     "km": 38,
+     "n": 3,
+     "q": 0
+    },
+    {
+     "km": 9,
+     "n": 1,
+     "q": 1
+    },
+    {
+     "km": 23,
+     "n": 2,
+     "q": 1
+    },
+    {
+     "km": 33,
+     "n": 3,
+     "q": 3
+    },
+    {
+     "km": 56,
+     "n": 4,
+     "q": 2
+    },
+    {
+     "km": 65,
+     "n": 4,
+     "q": 2
+    }
+   ],
+   "resume": {
+    "semaines": 12,
+    "min_sem": 173,
+    "sorties": 34,
+    "quali": 24
+   }
+  },
+  "chrono_source": "athle.fr",
+  "depart": [
+   48.858,
+   2.2921
+  ],
+  "mini": "M154,7L152,10L150,13L149,15L146,17L144,19L142,21L140,24L138,26L134,33L133,34L129,40L128,41L127,44L125,47L124,48L124,50L123,52L120,57L115,60L111,61L106,63L106,65L103,65L98,65L96,65L93,67L93,71L93,74L94,77L91,78L88,79L87,81L87,82L85,84L83,88L82,89L80,92L82,95L81,95L79,95L78,95L78,96L76,99L73,103L72,103L70,101L67,101L66,100L62,102L60,103L57,102L54,101L51,100L48,100L47,99L45,99L43,98L41,98L39,97L35,96L32,95L29,95L26,95L24,95L20,95L17,95L15,95L13,95L10,95L6,94L6,94",
+  "id": "2012-09-30-paris-versailles",
+  "t": 4440,
+  "chrono": "1h14",
+  "officiel": true,
+  "trace": "data/traces/2012-09-30-paris-versailles.txt"
+ },
+ {
+  "date": "2012-04-15",
+  "nom": "Marathon de Nantes",
+  "lieu": "Nantes",
+  "categorie": "marathon",
+  "distance_km": 42.4,
+  "denivele_m": 184,
+  "notes": "",
+  "preparation": {
+   "semaines": 10,
+   "base": "sorties longues",
+   "sorties_semaine": 3,
+   "sorties_min": 2,
+   "sorties_max": 5,
+   "sl_moy": 107,
+   "sl_max": 179,
+   "as_moy": null,
+   "as_max": null,
+   "as_seances": 0,
+   "qualite_semaine": 0,
+   "qualite_types": {
+    "fractionné": 2,
+    "côtes": 2
+   },
+   "dans_prepa_de": null,
+   "estime_gps": 1.0,
+   "hebdo": [
+    {
+     "km": 34,
+     "n": 3,
+     "q": 0
+    },
+    {
+     "km": 33,
+     "n": 3,
+     "q": 0
+    },
+    {
+     "km": 25,
+     "n": 2,
+     "q": 0
+    },
+    {
+     "km": 55,
+     "n": 5,
+     "q": 1
+    },
+    {
+     "km": 23,
+     "n": 2,
+     "q": 1
+    },
+    {
+     "km": 38,
+     "n": 4,
+     "q": 1
+    },
+    {
+     "km": 42,
+     "n": 3,
+     "q": 0
+    },
+    {
+     "km": 38,
+     "n": 3,
+     "q": 1
+    },
+    {
+     "km": 64,
+     "n": 5,
+     "q": 0
+    },
+    {
+     "km": 21,
+     "n": 2,
+     "q": 0
+    },
+    {
+     "km": 44,
+     "n": 4,
+     "q": 0
+    },
+    {
+     "km": 23,
+     "n": 2,
+     "q": 0
+    }
+   ],
+   "resume": {
+    "semaines": 10,
+    "min_sem": 223,
+    "sorties": 32,
+    "quali": 4
+   }
+  },
+  "chrono_source": "athle.fr",
+  "depart": [
+   47.203,
+   -1.5723
+  ],
+  "split_ratio": 4.5,
+  "mini": "M28,84L30,90L29,84L39,81L35,73L45,73L58,72L61,71L53,73L51,66L54,63L51,60L50,58L48,55L45,59L44,64L43,69L40,72L35,74L34,80L26,89L30,90L40,89L36,95L14,98L14,104L27,99L39,96L40,89L46,89L56,86L61,90L66,91L73,87L83,81L92,76L104,72L114,70L122,69L131,66L141,53L146,44L144,39L145,36L142,33L137,27L138,23L136,20L131,15L125,8L124,6L116,10L116,20L108,25L103,24L101,19L95,19L91,19L92,23L82,40L74,49L64,56L60,56L61,53L62,47L60,44L56,45L49,54L45,59L44,63L43,69L40,72L35,75L39,81L30,83L26,89L35,79",
+  "id": "2012-04-15-marathon-de-nantes",
+  "t": 14400,
+  "chrono": "4h00",
+  "officiel": true,
+  "splits": [
+   330,
+   320,
+   325,
+   315,
+   325,
+   320,
+   320,
+   315,
+   330,
+   310,
+   375,
+   320,
+   330,
+   335,
+   335,
+   345,
+   340,
+   345,
+   335,
+   345,
+   330,
+   335,
+   335,
+   345,
+   355,
+   350,
+   345,
+   360,
+   335,
+   355,
+   360,
+   355,
+   340,
+   340,
+   350,
+   370,
+   350,
+   335,
+   340,
+   340,
+   355,
+   340
+  ],
+  "trace": "data/traces/2012-04-15-marathon-de-nantes.txt"
+ },
+ {
+  "date": "2012-03-24",
+  "nom": "Ecotrail de Paris 30",
+  "lieu": "Meudon",
+  "categorie": "trail",
+  "distance_km": 30.1,
+  "denivele_m": 454,
+  "notes": "",
+  "preparation": {
+   "semaines": 8,
+   "base": "séances",
+   "sorties_semaine": 3,
+   "sorties_min": 2,
+   "sorties_max": 5,
+   "sl_moy": 102,
+   "sl_max": 118,
+   "as_moy": null,
+   "as_max": null,
+   "as_seances": 0,
+   "qualite_semaine": 1,
+   "qualite_types": {
+    "fractionné": 2,
+    "côtes": 2
+   },
+   "dans_prepa_de": null,
+   "estime_gps": 1.0,
+   "hebdo": [
+    {
+     "km": 33,
+     "n": 3,
+     "q": 0
+    },
+    {
+     "km": 33,
+     "n": 3,
+     "q": 0
+    },
+    {
+     "km": 34,
+     "n": 4,
+     "q": 1
+    },
+    {
+     "km": 34,
+     "n": 3,
+     "q": 0
+    },
+    {
+     "km": 25,
+     "n": 2,
+     "q": 0
+    },
+    {
+     "km": 33,
+     "n": 3,
+     "q": 0
+    },
+    {
+     "km": 55,
+     "n": 5,
+     "q": 1
+    },
+    {
+     "km": 23,
+     "n": 2,
+     "q": 1
+    },
+    {
+     "km": 33,
+     "n": 3,
+     "q": 1
+    },
+    {
+     "km": 47,
+     "n": 4,
+     "q": 0
+    },
+    {
+     "km": 38,
+     "n": 3,
+     "q": 1
+    },
+    {
+     "km": 34,
+     "n": 4,
+     "q": 0
+    }
+   ],
+   "resume": {
+    "semaines": 8,
+    "min_sem": 219,
+    "sorties": 26,
+    "quali": 4
+   }
+  },
+  "chrono_source": "athle.fr",
+  "depart": [
+   48.816,
+   2.2302
+  ],
+  "mini": "M82,71L83,81L82,80L81,91L78,95L76,91L75,87L74,88L72,93L70,98L67,98L61,99L59,102L58,104L54,104L54,102L51,100L54,97L56,94L54,93L51,92L49,92L48,93L47,83L48,82L50,81L52,79L49,73L48,72L45,70L43,69L39,68L39,66L36,64L34,62L30,64L27,64L22,67L18,65L17,60L18,48L22,47L24,47L26,49L29,49L30,45L32,47L33,49L37,51L41,50L42,46L47,44L51,49L55,50L64,53L64,50L67,47L68,47L69,48L70,48L69,42L70,42L73,50L75,51L77,52L79,56L85,62L94,64L98,63L103,61L103,58L106,55L109,52L112,49L115,45L117,42L120,37L124,32L128,25L134,19L134,16L138,12L141,11L142,7L144,6",
+  "id": "2012-03-24-ecotrail-de-paris-30",
+  "t": 10920,
+  "chrono": "3h02",
+  "officiel": true,
+  "trace": "data/traces/2012-03-24-ecotrail-de-paris-30.txt"
+ },
+ {
+  "date": "2011-06-19",
+  "nom": "10 km de L'Équipe",
+  "lieu": "Paris",
+  "categorie": "courte",
+  "distance_km": 10.08,
+  "denivele_m": 35,
+  "notes": "",
+  "preparation": {
+   "semaines": 8,
+   "base": "séances",
+   "sorties_semaine": 2,
+   "sorties_min": 1,
+   "sorties_max": 3,
+   "sl_moy": 74,
+   "sl_max": 88,
+   "as_moy": null,
+   "as_max": null,
+   "as_seances": 0,
+   "qualite_semaine": 1,
+   "qualite_types": {
+    "fractionné": 5
+   },
+   "dans_prepa_de": null,
+   "estime_gps": 1.0,
+   "hebdo": [
+    {
+     "km": 50,
+     "n": 4,
+     "q": 0
+    },
+    {
+     "km": 17,
+     "n": 2,
+     "q": 0
+    },
+    {
+     "km": 30,
+     "n": 3,
+     "q": 0
+    },
+    {
+     "km": 42,
+     "n": 1,
+     "q": 0
+    },
+    {
+     "km": 11,
+     "n": 1,
+     "q": 1
+    },
+    {
+     "km": 34,
+     "n": 3,
+     "q": 1
+    },
+    {
+     "km": 33,
+     "n": 3,
+     "q": 1
+    },
+    {
+     "km": 21,
+     "n": 3,
+     "q": 1
+    },
+    {
+     "km": 22,
+     "n": 2,
+     "q": 0
+    },
+    {
+     "km": 26,
+     "n": 3,
+     "q": 1
+    },
+    {
+     "km": 27,
+     "n": 2,
+     "q": 0
+    },
+    {
+     "km": 28,
+     "n": 3,
+     "q": 0
+    }
+   ],
+   "resume": {
+    "semaines": 8,
+    "min_sem": 151,
+    "sorties": 20,
+    "quali": 5
+   }
+  },
+  "depart": [
+   48.856,
+   2.3683
+  ],
+  "mini": "M41,45L40,39L40,37L39,34L39,29L39,28L38,26L37,20L36,17L35,15L34,13L33,9L33,8L33,8L34,6L35,6L38,7L40,7L44,8L47,9L51,10L52,11L55,11L56,12L60,13L62,13L64,14L65,14L78,18L81,19L82,19L85,20L85,21L86,24L86,25L89,32L90,35L91,37L94,46L97,52L98,56L99,59L101,62L103,68L104,69L107,71L109,71L116,73L119,73L119,73L127,74L127,74L126,74L123,74L118,73L117,73L113,73L110,72L107,72L105,73L104,73L102,72L100,72L95,73L89,74L86,74L84,75L84,75L84,76L85,78L86,80L88,82L88,83L90,84L92,87L94,89L96,92L99,95L103,100L103,101L103,102L102,102L101,103L99,103L92,104L89,104L88,103L86,98L84,96L84,94L81,92L79,91L77,90L76,89L73,87L72,86L69,84L61,78L59,77L57,75L52,71L50,70L48,68L48,68",
+  "id": "2011-06-19-10-km-de-l-equipe",
+  "t": 2640,
+  "chrono": "44 min",
+  "officiel": false,
+  "trace": "data/traces/2011-06-19-10-km-de-l-equipe.txt"
+ },
+ {
+  "date": "2011-04-17",
+  "nom": "Marathon de Nantes",
+  "lieu": "Nantes",
+  "categorie": "marathon",
+  "distance_km": 42.38,
+  "denivele_m": 243,
+  "notes": "",
+  "preparation": {
+   "semaines": 12,
+   "base": "séances",
+   "sorties_semaine": 3,
+   "sorties_min": 2,
+   "sorties_max": 4,
+   "sl_moy": 98,
+   "sl_max": 133,
+   "as_moy": 46,
+   "as_max": 64,
+   "as_seances": 4,
+   "qualite_semaine": 1,
+   "qualite_types": {
+    "fractionné": 6,
+    "seuil": 1
+   },
+   "dans_prepa_de": null,
+   "estime_gps": 1.0,
+   "hebdo": [
+    {
+     "km": 37,
+     "n": 3,
+     "q": 1
+    },
+    {
+     "km": 37,
+     "n": 3,
+     "q": 1
+    },
+    {
+     "km": 37,
+     "n": 3,
+     "q": 1
+    },
+    {
+     "km": 0,
+     "n": 3,
+     "q": 0
+    },
+    {
+     "km": 32,
+     "n": 3,
+     "q": 1
+    },
+    {
+     "km": 39,
+     "n": 3,
+     "q": 1
+    },
+    {
+     "km": 17,
+     "n": 2,
+     "q": 0
+    },
+    {
+     "km": 41,
+     "n": 3,
+     "q": 1
+    },
+    {
+     "km": 33,
+     "n": 2,
+     "q": 1
+    },
+    {
+     "km": 50,
+     "n": 4,
+     "q": 0
+    },
+    {
+     "km": 17,
+     "n": 2,
+     "q": 0
+    },
+    {
+     "km": 30,
+     "n": 3,
+     "q": 0
+    }
+   ],
+   "resume": {
+    "semaines": 12,
+    "min_sem": 193,
+    "sorties": 34,
+    "quali": 7
+   }
+  },
+  "chrono_source": "athle.fr",
+  "depart": [
+   47.2051,
+   -1.5669
+  ],
+  "split_ratio": 7.6,
+  "mini": "M34,80L26,89L31,83L38,80L35,73L45,73L53,74L55,74L50,68L52,64L52,58L47,55L44,59L44,63L43,67L43,70L38,72L36,78L27,85L28,89L39,89L38,95L21,98L15,101L17,102L33,97L40,94L44,89L57,86L66,91L78,84L88,78L101,72L116,70L128,68L134,64L145,45L146,40L145,36L140,32L137,27L138,25L138,21L131,15L127,8L124,6L120,9L117,19L109,25L103,24L100,13L93,11L91,16L91,20L88,30L82,40L76,46L67,54L63,57L61,55L61,53L61,49L61,44L59,42L53,49L52,52L45,59L44,63L43,68L40,72L36,73L39,81L29,83L26,89L34,80L35,79",
+  "id": "2011-04-17-marathon-de-nantes",
+  "t": 13920,
+  "chrono": "3h52",
+  "officiel": true,
+  "splits": [
+   320,
+   295,
+   305,
+   300,
+   320,
+   315,
+   310,
+   310,
+   315,
+   335,
+   315,
+   310,
+   315,
+   315,
+   320,
+   330,
+   320,
+   310,
+   315,
+   315,
+   330,
+   310,
+   315,
+   315,
+   330,
+   325,
+   315,
+   320,
+   310,
+   305,
+   335,
+   320,
+   310,
+   315,
+   320,
+   350,
+   335,
+   340,
+   375,
+   430,
+   440,
+   400
+  ],
+  "trace": "data/traces/2011-04-17-marathon-de-nantes.txt"
+ },
+ {
+  "date": "2011-03-13",
+  "nom": "Semi-marathon de Rueil-Malmaison",
+  "lieu": "Rueil-Malmaison",
+  "categorie": "courte",
+  "distance_km": 20.75,
+  "denivele_m": 68,
+  "notes": "",
+  "preparation": {
+   "semaines": 8,
+   "base": "séances",
+   "sorties_semaine": 3,
+   "sorties_min": 1,
+   "sorties_max": 3,
+   "sl_moy": 82,
+   "sl_max": 97,
+   "as_moy": null,
+   "as_max": null,
+   "as_seances": 0,
+   "qualite_semaine": 1,
+   "qualite_types": {
+    "fractionné": 4,
+    "seuil": 1
+   },
+   "dans_prepa_de": {
+    "id": "2011-04-17-marathon-de-nantes",
+    "nom": "Marathon de Nantes",
+    "date": "2011-04-17"
+   },
+   "estime_gps": 1.0,
+   "hebdo": [
+    {
+     "km": 27,
+     "n": 3,
+     "q": 0
+    },
+    {
+     "km": 43,
+     "n": 5,
+     "q": 0
+    },
+    {
+     "km": 9,
+     "n": 1,
+     "q": 0
+    },
+    {
+     "km": 49,
+     "n": 4,
+     "q": 0
+    },
+    {
+     "km": 11,
+     "n": 1,
+     "q": 0
+    },
+    {
+     "km": 37,
+     "n": 3,
+     "q": 1
+    },
+    {
+     "km": 37,
+     "n": 3,
+     "q": 1
+    },
+    {
+     "km": 37,
+     "n": 3,
+     "q": 1
+    },
+    {
+     "km": 0,
+     "n": 3,
+     "q": 0
+    },
+    {
+     "km": 32,
+     "n": 3,
+     "q": 1
+    },
+    {
+     "km": 39,
+     "n": 3,
+     "q": 1
+    },
+    {
+     "km": 17,
+     "n": 2,
+     "q": 0
+    }
+   ],
+   "resume": {
+    "semaines": 8,
+    "min_sem": 172,
+    "sorties": 21,
+    "quali": 5
+   }
+  },
+  "chrono_source": "athle.fr",
+  "depart": [
+   48.8919,
+   2.1692
+  ],
+  "mini": "M86,37L87,30L85,33L82,34L86,25L96,15L106,7L108,8L97,27L94,34L90,41L91,45L92,45L95,44L98,41L95,48L92,50L88,46L85,50L83,48L81,44L79,42L74,49L77,54L75,58L74,60L77,66L76,74L76,77L75,82L69,91L63,97L54,104L51,100L54,92L60,81L69,75L73,71L74,62L73,59L74,48L80,41L81,38L84,29L104,9L108,6L109,7L97,27L93,34L90,41L91,44L92,44L95,43L99,42L95,48L89,47L86,49L84,50L83,48L82,44L77,44L75,48L77,54L76,58L74,62L77,67L77,74L76,79L72,87L68,91L63,97L53,104L51,100L60,80L71,73L75,65L73,60L73,51L79,42L81,39L82,33L89,23L102,10L108,6L109,7L108,10L108,10",
+  "id": "2011-03-13-semi-marathon-de-rueil-malmaison",
+  "t": 6720,
+  "chrono": "1h52",
+  "officiel": true,
+  "trace": "data/traces/2011-03-13-semi-marathon-de-rueil-malmaison.txt"
+ },
+ {
+  "date": "2010-09-26",
+  "nom": "20 km de Tours",
+  "lieu": "Tours",
+  "categorie": "courte",
+  "distance_km": 20.2,
+  "denivele_m": 22,
+  "notes": "",
+  "preparation": {
+   "semaines": 12,
+   "base": "séances",
+   "sorties_semaine": 3,
+   "sorties_min": 2,
+   "sorties_max": 5,
+   "sl_moy": 79,
+   "sl_max": 112,
+   "as_moy": null,
+   "as_max": null,
+   "as_seances": 0,
+   "qualite_semaine": 1,
+   "qualite_types": {
+    "fractionné": 7,
+    "seuil": 6,
+    "côtes": 1
+   },
+   "dans_prepa_de": null,
+   "estime_gps": 1.0,
+   "hebdo": [
+    {
+     "km": 52,
+     "n": 4,
+     "q": 1
+    },
+    {
+     "km": 17,
+     "n": 2,
+     "q": 2
+    },
+    {
+     "km": 23,
+     "n": 2,
+     "q": 1
+    },
+    {
+     "km": 35,
+     "n": 3,
+     "q": 2
+    },
+    {
+     "km": 20,
+     "n": 2,
+     "q": 1
+    },
+    {
+     "km": 27,
+     "n": 2,
+     "q": 1
+    },
+    {
+     "km": 18,
+     "n": 2,
+     "q": 2
+    },
+    {
+     "km": 35,
+     "n": 5,
+     "q": 0
+    },
+    {
+     "km": 42,
+     "n": 3,
+     "q": 1
+    },
+    {
+     "km": 22,
+     "n": 2,
+     "q": 2
+    },
+    {
+     "km": 20,
+     "n": 2,
+     "q": 1
+    },
+    {
+     "km": 22,
+     "n": 2,
+     "q": 0
+    }
+   ],
+   "resume": {
+    "semaines": 12,
+    "min_sem": 151,
+    "sorties": 31,
+    "quali": 14
+   }
+  },
+  "depart": [
+   47.3884,
+   0.6896
+  ],
+  "mini": "M79,51L82,63L83,65L84,70L85,73L87,79L88,83L89,86L91,86L94,88L100,86L106,85L108,91L103,91L100,96L100,99L98,101L83,104L66,103L54,102L53,100L57,87L67,88L68,85L56,81L52,65L58,57L68,54L65,39L62,35L60,35L57,29L57,25L61,24L65,23L71,21L66,6L67,7L72,26L75,36L77,47L79,53L83,64L87,82L97,87L100,85L105,84L107,92L100,93L99,99L95,101L82,103L66,102L53,101L56,87L65,88L65,84L57,82L56,79L53,60L57,57L63,55L67,52L66,46L65,39L63,35L60,36L57,26L63,24L70,22L70,20L67,6L74,31L76,41L78,46",
+  "id": "2010-09-26-20-km-de-tours",
+  "t": 5520,
+  "chrono": "1h32",
+  "officiel": false,
+  "trace": "data/traces/2010-09-26-20-km-de-tours.txt"
+ },
+ {
+  "date": "2010-04-11",
+  "nom": "Marathon de Paris",
+  "lieu": "Paris",
+  "categorie": "marathon",
+  "distance_km": 43.12,
+  "denivele_m": 241,
+  "notes": "",
+  "preparation": {
+   "semaines": 0,
+   "base": "sorties longues",
+   "sorties_semaine": 2,
+   "sorties_min": 2,
+   "sorties_max": 3,
+   "sl_moy": 127,
+   "sl_max": 153,
+   "as_moy": null,
+   "as_max": null,
+   "as_seances": 0,
+   "qualite_semaine": 0,
+   "qualite_types": {},
+   "dans_prepa_de": null,
+   "estime_gps": 0,
+   "hebdo": [
+    {
+     "km": 37,
+     "n": 2,
+     "q": 0
+    },
+    {
+     "km": 44,
+     "n": 3,
+     "q": 0
+    },
+    {
+     "km": 18,
+     "n": 2,
+     "q": 0
+    },
+    {
+     "km": 45,
+     "n": 3,
+     "q": 0
+    },
+    {
+     "km": 22,
+     "n": 2,
+     "q": 0
+    },
+    {
+     "km": 41,
+     "n": 3,
+     "q": 0
+    },
+    {
+     "km": 17,
+     "n": 2,
+     "q": 0
+    },
+    {
+     "km": 45,
+     "n": 3,
+     "q": 0
+    },
+    {
+     "km": 51,
+     "n": 3,
+     "q": 0
+    },
+    {
+     "km": 26,
+     "n": 2,
+     "q": 0
+    },
+    {
+     "km": 32,
+     "n": 2,
+     "q": 0
+    },
+    {
+     "km": 15,
+     "n": 2,
+     "q": 0
+    }
+   ],
+   "resume": {
+    "semaines": 12,
+    "min_sem": 197,
+    "sorties": 29,
+    "quali": 0
+   }
+  },
+  "depart": [
+   48.8721,
+   2.3002
+  ],
+  "split_ratio": 5.5,
+  "mini": "M46,27L62,33L65,34L68,35L70,36L71,37L73,38L75,39L77,40L79,41L80,41L82,42L84,43L87,44L90,45L92,46L95,47L98,48L101,49L105,50L106,52L108,55L110,57L112,59L113,61L115,63L117,64L119,65L121,66L122,66L126,67L131,65L141,61L144,63L154,74L148,78L147,83L141,82L137,79L128,77L122,76L118,72L112,67L109,63L108,60L104,57L96,51L94,47L92,53L89,48L85,46L80,43L66,38L45,36L40,40L34,47L29,51L26,54L20,55L12,55L16,52L19,44L17,41L15,45L12,49L8,47L9,39L15,30L21,28L24,29L29,28L32,27",
+  "id": "2010-04-11-marathon-de-paris",
+  "t": 14700,
+  "chrono": "4h05",
+  "officiel": false,
+  "splits": [
+   325,
+   330,
+   315,
+   305,
+   325,
+   340,
+   335,
+   335,
+   320,
+   320,
+   345,
+   335,
+   380,
+   340,
+   340,
+   340,
+   325,
+   335,
+   340,
+   330,
+   335,
+   335,
+   345,
+   335,
+   335,
+   570,
+   140,
+   380,
+   310,
+   360,
+   350,
+   360,
+   360,
+   365,
+   365,
+   370,
+   360,
+   350,
+   350,
+   345,
+   350,
+   370
+  ],
+  "trace": "data/traces/2010-04-11-marathon-de-paris.txt"
+ },
+ {
+  "date": "2010-03-07",
+  "nom": "Semi-marathon de Paris",
+  "lieu": "Paris",
+  "categorie": "courte",
+  "distance_km": 21.35,
+  "denivele_m": null,
+  "notes": "",
+  "preparation": {
+   "semaines": 0,
+   "base": "séances",
+   "sorties_semaine": 3,
+   "sorties_min": 2,
+   "sorties_max": 3,
+   "sl_moy": 121,
+   "sl_max": 150,
+   "as_moy": null,
+   "as_max": null,
+   "as_seances": 0,
+   "qualite_semaine": 0,
+   "qualite_types": {},
+   "dans_prepa_de": {
+    "id": "2010-04-11-marathon-de-paris",
+    "nom": "Marathon de Paris",
+    "date": "2010-04-11"
+   },
+   "estime_gps": 0,
+   "hebdo": [
+    {
+     "km": 0,
+     "n": 0,
+     "q": 0
+    },
+    {
+     "km": 0,
+     "n": 0,
+     "q": 0
+    },
+    {
+     "km": 22,
+     "n": 1,
+     "q": 0
+    },
+    {
+     "km": 9,
+     "n": 1,
+     "q": 0
+    },
+    {
+     "km": 44,
+     "n": 3,
+     "q": 0
+    },
+    {
+     "km": 37,
+     "n": 2,
+     "q": 0
+    },
+    {
+     "km": 44,
+     "n": 3,
+     "q": 0
+    },
+    {
+     "km": 18,
+     "n": 2,
+     "q": 0
+    },
+    {
+     "km": 45,
+     "n": 3,
+     "q": 0
+    },
+    {
+     "km": 22,
+     "n": 2,
+     "q": 0
+    },
+    {
+     "km": 41,
+     "n": 3,
+     "q": 0
+    },
+    {
+     "km": 17,
+     "n": 2,
+     "q": 0
+    }
+   ],
+   "resume": {
+    "semaines": 12,
+    "min_sem": 155,
+    "sorties": 22,
+    "quali": 0
+   }
+  },
+  "chrono_source": "athle.fr",
+  "id": "2010-03-07-semi-marathon-de-paris",
+  "t": 5880,
+  "chrono": "1h38",
+  "officiel": true
+ },
+ {
+  "date": "2009-11-15",
+  "nom": "Semi-marathon de Boulogne",
+  "lieu": "Boulogne-Billancourt",
+  "categorie": "courte",
+  "distance_km": 21.1,
+  "denivele_m": null,
+  "notes": "",
+  "preparation": null,
+  "chrono_source": "athle.fr",
+  "id": "2009-11-15-semi-marathon-de-boulogne",
+  "t": 5940,
+  "chrono": "1h39",
+  "officiel": true
+ },
+ {
+  "date": "2009-03-08",
+  "nom": "Semi-marathon de Paris",
+  "lieu": "Paris",
+  "categorie": "courte",
+  "distance_km": 21.1,
+  "denivele_m": null,
+  "notes": "",
+  "preparation": null,
+  "chrono_source": "athle.fr",
+  "id": "2009-03-08-semi-marathon-de-paris",
+  "t": 7020,
+  "chrono": "1h57",
+  "officiel": true
+ },
+ {
+  "date": "2008-09-28",
+  "nom": "Paris-Versailles",
+  "lieu": "Paris → Versailles",
+  "categorie": "courte",
+  "distance_km": 16.3,
+  "denivele_m": null,
+  "notes": "",
+  "preparation": null,
+  "chrono_source": "athle.fr",
+  "id": "2008-09-28-paris-versailles",
+  "t": 5340,
+  "chrono": "1h29",
+  "officiel": true
+ },
+ {
+  "date": "2004-10-17",
+  "nom": "20 km de Paris",
+  "lieu": "Paris",
+  "categorie": "courte",
+  "distance_km": 20.0,
+  "denivele_m": null,
+  "notes": "",
+  "preparation": null,
+  "chrono_source": "athle.fr",
+  "id": "2004-10-17-20-km-de-paris",
+  "t": 6660,
+  "chrono": "1h51",
+  "officiel": true
+ },
+ {
+  "date": "2004-03-07",
+  "nom": "Semi-marathon de Paris",
+  "lieu": "Paris",
+  "categorie": "courte",
+  "distance_km": 21.1,
+  "denivele_m": null,
+  "notes": "",
+  "preparation": null,
+  "chrono_source": "athle.fr",
+  "id": "2004-03-07-semi-marathon-de-paris",
+  "t": 7140,
+  "chrono": "1h59",
+  "officiel": true
+ }
+]

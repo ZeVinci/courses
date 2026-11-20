@@ -1,0 +1,74 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Mes courses</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Archivo:wght@500;700;900&family=Inter:wght@400;500;600&family=Space+Grotesk:wght@500;600;700&display=swap">
+  <link rel="stylesheet" href="vendor/leaflet/leaflet.css">
+  <link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+  <div class="wrap">
+    <header class="top">
+      <div class="top-row">
+        <div class="title">
+          <p class="eyebrow" id="eyebrow">Mes courses</p>
+          <h1>Mes<br>dossards</h1>
+        </div>
+        <div class="hero" id="hero" aria-live="polite"></div>
+      </div>
+      <div class="toolbar">
+        <nav class="tabs" aria-label="Vue">
+          <a href="#" data-view="list" aria-current="page">Courses</a>
+          <a href="#donnees" data-view="data">Données</a>
+        </nav>
+        <div class="filters" id="filters">
+          <div class="cats" role="group" aria-label="Filtrer par catégorie" id="cats"></div>
+          <label class="prep-toggle"><input type="checkbox" id="prep-toggle"> Afficher la prépa</label>
+        </div>
+        <button type="button" class="login-btn" id="login-btn" aria-haspopup="dialog">
+          <svg viewBox="0 0 24 24" width="16" height="16" aria-hidden="true"><rect x="5" y="11" width="14" height="10" rx="2" fill="none" stroke="currentColor" stroke-width="2"/><path d="M8 11V8a4 4 0 0 1 8 0v3" fill="none" stroke="currentColor" stroke-width="2"/></svg>
+          <span>Se connecter</span>
+        </button>
+      </div>
+    </header>
+
+    <main id="list" aria-busy="true">
+      <p class="loading">Chargement…</p>
+    </main>
+
+    <main id="data" class="viz" hidden></main>
+
+    <div class="modal" id="modal" hidden>
+      <div class="sheet" role="dialog" aria-modal="true" aria-labelledby="m-title" id="sheet"></div>
+    </div>
+
+    <div class="modal" id="login" hidden>
+      <form class="login-box" id="login-form" role="dialog" aria-modal="true" aria-labelledby="login-title">
+        <h2 id="login-title">Accès complet</h2>
+        <p>Le mot de passe déverrouille les chronos à la seconde, les liens Strava et les photos.</p>
+        <label for="pw">Mot de passe</label>
+        <input type="password" id="pw" autocomplete="current-password" required>
+        <label class="remember"><input type="checkbox" id="remember"> Rester connecté sur cet appareil</label>
+        <p class="login-err" id="login-err" role="alert"></p>
+        <div class="login-actions">
+          <button type="button" class="ghost" id="login-cancel">Annuler</button>
+          <button type="submit" id="login-ok">Déverrouiller</button>
+        </div>
+      </form>
+    </div>
+
+    <footer class="foot">
+      <p>Données issues de Strava. Fond de carte © contributeurs OpenStreetMap.</p>
+    </footer>
+  </div>
+
+  <script src="vendor/leaflet/leaflet.js"></script>
+  <script src="js/prive.js"></script>
+  <script src="js/data.js"></script>
+  <script src="js/app.js"></script>
+</body>
+</html>
